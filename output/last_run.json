@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-07 12:56:51 UTC",
-  "mode": "distribution-only (no health check)",
+  "timestamp": "2026-05-07 16:18:44 UTC",
+  "mode": "distribution + manifest",
   "elapsed_sec": 0.07,
   "files": [
     {
