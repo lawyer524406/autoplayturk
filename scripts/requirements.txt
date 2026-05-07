@@ -1,1 +1,1 @@
-yt-dlp>=2024.10.7
+# oEmbed std lib ile yapiliyor — disardan deps yok.
