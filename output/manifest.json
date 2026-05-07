@@ -1,7 +1,7 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-05-07 16:18:44 UTC",
+  "timestamp": "2026-05-07 16:30:12 UTC",
   "lists": [
     {
       "name": "kovboy",
@@ -30,6 +30,13 @@
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yerlikomedi.m3u",
       "totalChannels": 2292
+    },
+    {
+      "name": "yt_kanal",
+      "file": "yt_kanal.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yt_kanal.m3u",
+      "totalChannels": 52
     }
   ]
 }

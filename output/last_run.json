@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-07 16:18:44 UTC",
+  "timestamp": "2026-05-07 16:30:12 UTC",
   "mode": "distribution + manifest",
-  "elapsed_sec": 0.07,
+  "elapsed_sec": 0.08,
   "files": [
     {
       "file": "kovboy.m3u",
@@ -25,6 +25,12 @@
       "file": "yerlikomedi.m3u",
       "total": 2292,
       "youtube": 2292,
+      "other": 0
+    },
+    {
+      "file": "yt_kanal.m3u",
+      "total": 52,
+      "youtube": 52,
       "other": 0
     }
   ]
