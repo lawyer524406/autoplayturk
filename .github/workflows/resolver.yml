@@ -39,9 +39,6 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-                - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
           if [ -s scripts/requirements.txt ] && grep -v '^[[:space:]]*#' scripts/requirements.txt | grep -q '[a-zA-Z]'; then
             pip install -r scripts/requirements.txt
           else
