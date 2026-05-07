@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-07 16:30:12 UTC",
+  "timestamp": "2026-05-07 20:25:48 UTC",
   "mode": "distribution + manifest",
-  "elapsed_sec": 0.08,
+  "elapsed_sec": 0.16,
   "files": [
     {
       "file": "kovboy.m3u",
@@ -31,6 +31,24 @@
       "file": "yt_kanal.m3u",
       "total": 52,
       "youtube": 52,
+      "other": 0
+    },
+    {
+      "file": "yt_kanal1.m3u",
+      "total": 361,
+      "youtube": 361,
+      "other": 0
+    },
+    {
+      "file": "yt_kanal2.m3u",
+      "total": 3054,
+      "youtube": 3054,
+      "other": 0
+    },
+    {
+      "file": "yt_kanal3.m3u",
+      "total": 997,
+      "youtube": 997,
       "other": 0
     }
   ]
