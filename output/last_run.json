@@ -1,45 +1,45 @@
 {
-  "timestamp": "2026-05-07 12:26:43 UTC",
+  "timestamp": "2026-05-07 12:44:55 UTC",
   "files": [
     {
       "file": "kovboy.m3u",
       "total": 230,
       "youtube": 230,
-      "cache_hit": 225,
-      "newly_probed": 5,
-      "kept": 225,
-      "dropped": 5,
-      "elapsed_sec": 0.1
+      "cache_hit": 0,
+      "newly_probed": 230,
+      "kept": 5,
+      "dropped": 225,
+      "elapsed_sec": 3.7
     },
     {
       "file": "yabancikarisik.m3u",
       "total": 751,
       "youtube": 751,
-      "cache_hit": 748,
-      "newly_probed": 3,
-      "kept": 748,
-      "dropped": 3,
-      "elapsed_sec": 0.1
+      "cache_hit": 0,
+      "newly_probed": 751,
+      "kept": 374,
+      "dropped": 377,
+      "elapsed_sec": 11.9
     },
     {
       "file": "yerlikarisik.m3u",
       "total": 4387,
       "youtube": 4387,
-      "cache_hit": 868,
-      "newly_probed": 3519,
-      "kept": 868,
-      "dropped": 3519,
-      "elapsed_sec": 52.0
+      "cache_hit": 0,
+      "newly_probed": 4387,
+      "kept": 743,
+      "dropped": 3644,
+      "elapsed_sec": 68.7
     },
     {
       "file": "yerlikomedi.m3u",
       "total": 2292,
       "youtube": 2292,
-      "cache_hit": 573,
-      "newly_probed": 1719,
-      "kept": 573,
-      "dropped": 1719,
-      "elapsed_sec": 26.0
+      "cache_hit": 0,
+      "newly_probed": 2292,
+      "kept": 500,
+      "dropped": 1792,
+      "elapsed_sec": 35.9
     }
   ]
 }
