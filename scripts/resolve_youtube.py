@@ -16,10 +16,19 @@ OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
 RAW_BASE = 'https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output'
 
 TAB_MAP = {
+    # Sinema/film listeleri (YouTube watch?v= URL'leri)
     'kovboy.m3u':         'sinema',
     'yerlikarisik.m3u':   'sinema',
     'yabancikarisik.m3u': 'sinema',
     'yerlikomedi.m3u':    'sinema',
+    # TV kanal listeleri (HLS/canli yayin URL'leri)
+    'ENSONSTREAMLENMİSFULLLİSTE.m3u': 'tv',
+    'dunyamusictvkanallari.m3u':      'tv',
+    'yabanci_sinematvkanallari.m3u':  'tv',
+    'yabanci_yemektvkanallari.m3u':   'tv',
+    'yabancitvsporkanallari.m3u':     'tv',
+    # Radyo akislari
+    'turkradyolari.m3u':              'radyo',
 }
 
 def guess_tab_from_filename(fname):
