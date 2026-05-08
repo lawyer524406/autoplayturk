@@ -1,13 +1,19 @@
 {
-  "timestamp": "2026-05-08 17:38:51 UTC",
+  "timestamp": "2026-05-08 17:40:47 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.3,
+  "elapsed_sec": 0.24,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
       "total": 624,
       "youtube": 0,
       "other": 624
+    },
+    {
+      "file": "NetSinema.m3u",
+      "total": 6840,
+      "youtube": 0,
+      "other": 6840
     },
     {
       "file": "dunyabelgeseltv.m3u",
