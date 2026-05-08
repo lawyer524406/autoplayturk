@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""AutoPlayTurk Resolver — distribution + manifest"""
+"""AutoPlayTurk Resolver — distribution + manifest + conditional EXTVLCOPT"""
 
 import os
 import re
@@ -16,18 +16,17 @@ OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
 RAW_BASE = 'https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output'
 
 TAB_MAP = {
-    # Sinema/film listeleri (YouTube watch?v= URL'leri)
     'kovboy.m3u':         'sinema',
     'yerlikarisik.m3u':   'sinema',
     'yabancikarisik.m3u': 'sinema',
     'yerlikomedi.m3u':    'sinema',
-    # TV kanal listeleri (HLS/canli yayin URL'leri)
+    'sinema.m3u':         'sinema',
+    'RecTvSinema.m3u':    'sinema',
     'ENSONSTREAMLENMİSFULLLİSTE.m3u': 'tv',
     'dunyamusictvkanallari.m3u':      'tv',
     'yabanci_sinematvkanallari.m3u':  'tv',
     'yabanci_yemektvkanallari.m3u':   'tv',
     'yabancitvsporkanallari.m3u':     'tv',
-    # Radyo akislari
     'turkradyolari.m3u':              'radyo',
 }
 
@@ -50,6 +49,7 @@ GV_RE = re.compile(r'googlevideo\.com/videoplayback', re.IGNORECASE)
 
 
 def parse_m3u(text):
+    """EXTVLCOPT KOSULLU: YouTube'da AT, diger CDN'lerde (RecTv) KORU."""
     lines = text.splitlines()
     entries = []
     i = 0
@@ -59,10 +59,11 @@ def parse_m3u(text):
             extinf = line
             j = i + 1
             extras = []
+            pending_vlcopt = []
             while j < len(lines):
                 nxt = lines[j].rstrip('\r')
                 if nxt.startswith('#EXTVLCOPT:'):
-                    j += 1; continue
+                    pending_vlcopt.append(nxt); j += 1; continue
                 if nxt.startswith('#KODI'):
                     extras.append(nxt); j += 1; continue
                 if nxt.startswith('#'): break
@@ -78,6 +79,14 @@ def parse_m3u(text):
                     if lm: vid = lm.group(1)
                 if vid and GV_RE.search(url):
                     url = f'https://www.youtube.com/watch?v={vid}'
+                is_youtube = (
+                    'youtube.com/watch' in url
+                    or 'youtu.be/' in url
+                    or 'youtube-nocookie.com/watch' in url
+                    or 'googlevideo.com/videoplayback' in url
+                )
+                if not is_youtube and pending_vlcopt:
+                    extras = pending_vlcopt + extras
                 entries.append({'extinf': extinf, 'extras': extras, 'url': url, 'video_id': vid})
                 i = j + 1
                 break
@@ -129,7 +138,6 @@ def main():
             summary.append({'file': src.name, 'error': str(e)})
     total_elapsed = time.time() - t_start
 
-    # MANIFEST
     manifest_lists = []
     for s in summary:
         if 'error' in s: continue
@@ -158,7 +166,7 @@ def main():
     (OUTPUT_DIR / 'last_run.json').write_text(
         json.dumps({
             'timestamp': time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime()),
-            'mode': 'distribution + manifest',
+            'mode': 'distribution + manifest + conditional EXTVLCOPT',
             'elapsed_sec': round(total_elapsed, 2),
             'files': summary,
         }, indent=2, ensure_ascii=False),
