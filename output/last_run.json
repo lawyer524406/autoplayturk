@@ -1,13 +1,19 @@
 {
-  "timestamp": "2026-05-08 08:19:17 UTC",
+  "timestamp": "2026-05-08 08:28:17 UTC",
   "mode": "distribution + manifest",
-  "elapsed_sec": 0.18,
+  "elapsed_sec": 0.21,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
       "total": 624,
       "youtube": 0,
       "other": 624
+    },
+    {
+      "file": "RecTvSinema.m3u",
+      "total": 6840,
+      "youtube": 0,
+      "other": 6840
     },
     {
       "file": "dunyamusictvkanallari.m3u",
@@ -20,6 +26,12 @@
       "total": 230,
       "youtube": 230,
       "other": 0
+    },
+    {
+      "file": "sinema.m3u",
+      "total": 26,
+      "youtube": 0,
+      "other": 26
     },
     {
       "file": "turkradyolari.m3u",
