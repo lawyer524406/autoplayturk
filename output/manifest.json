@@ -1,7 +1,7 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-05-08 08:32:28 UTC",
+  "timestamp": "2026-05-08 08:40:20 UTC",
   "lists": [
     {
       "name": "ENSONSTREAMLENMİSFULLLİSTE",
@@ -18,11 +18,25 @@
       "totalChannels": 6840
     },
     {
+      "name": "dunyabelgeseltv",
+      "file": "dunyabelgeseltv.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/dunyabelgeseltv.m3u",
+      "totalChannels": 132
+    },
+    {
       "name": "dunyamusictvkanallari",
       "file": "dunyamusictvkanallari.m3u",
       "tab": "tv",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/dunyamusictvkanallari.m3u",
       "totalChannels": 382
+    },
+    {
+      "name": "dünyanewstv",
+      "file": "dünyanewstv.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/dünyanewstv.m3u",
+      "totalChannels": 926
     },
     {
       "name": "kovboy",
