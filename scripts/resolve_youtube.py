@@ -22,7 +22,7 @@ TAB_MAP = {
     'yabancikarisik.m3u': 'sinema',
     'yerlikomedi.m3u':    'sinema',
     'sinema.m3u':         'sinema',
-    'RecTvSinema.m3u':    'sinema',
+    'NetSinema.m3u':    'sinema',
     'yt_kanal.m3u':       'sinema',
     'yt_kanal1.m3u':      'sinema',
     'yt_kanal2.m3u':      'sinema',
