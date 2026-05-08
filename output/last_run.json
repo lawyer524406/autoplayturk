@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-08 08:28:17 UTC",
-  "mode": "distribution + manifest",
-  "elapsed_sec": 0.21,
+  "timestamp": "2026-05-08 08:32:28 UTC",
+  "mode": "distribution + manifest + conditional EXTVLCOPT",
+  "elapsed_sec": 0.23,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
