@@ -1,8 +1,22 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-05-08 06:19:16 UTC",
+  "timestamp": "2026-05-08 08:15:51 UTC",
   "lists": [
+    {
+      "name": "ENSONSTREAMLENMİSFULLLİSTE",
+      "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/ENSONSTREAMLENMİSFULLLİSTE.m3u",
+      "totalChannels": 624
+    },
+    {
+      "name": "dunyamusictvkanallari",
+      "file": "dunyamusictvkanallari.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/dunyamusictvkanallari.m3u",
+      "totalChannels": 382
+    },
     {
       "name": "kovboy",
       "file": "kovboy.m3u",
@@ -11,11 +25,39 @@
       "totalChannels": 230
     },
     {
+      "name": "turkradyolari",
+      "file": "turkradyolari.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/turkradyolari.m3u",
+      "totalChannels": 414
+    },
+    {
+      "name": "yabanci_sinematvkanallari",
+      "file": "yabanci_sinematvkanallari.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yabanci_sinematvkanallari.m3u",
+      "totalChannels": 149
+    },
+    {
+      "name": "yabanci_yemektvkanallari",
+      "file": "yabanci_yemektvkanallari.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yabanci_yemektvkanallari.m3u",
+      "totalChannels": 19
+    },
+    {
       "name": "yabancikarisik",
       "file": "yabancikarisik.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yabancikarisik.m3u",
       "totalChannels": 751
+    },
+    {
+      "name": "yabancitvsporkanallari",
+      "file": "yabancitvsporkanallari.m3u",
+      "tab": "sinema",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yabancitvsporkanallari.m3u",
+      "totalChannels": 116
     },
     {
       "name": "yerlikarisik",

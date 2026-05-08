@@ -1,8 +1,20 @@
 {
-  "timestamp": "2026-05-08 06:19:16 UTC",
+  "timestamp": "2026-05-08 08:15:51 UTC",
   "mode": "distribution + manifest",
-  "elapsed_sec": 0.16,
+  "elapsed_sec": 0.18,
   "files": [
+    {
+      "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
+      "total": 624,
+      "youtube": 0,
+      "other": 624
+    },
+    {
+      "file": "dunyamusictvkanallari.m3u",
+      "total": 382,
+      "youtube": 0,
+      "other": 382
+    },
     {
       "file": "kovboy.m3u",
       "total": 230,
@@ -10,10 +22,34 @@
       "other": 0
     },
     {
+      "file": "turkradyolari.m3u",
+      "total": 414,
+      "youtube": 0,
+      "other": 414
+    },
+    {
+      "file": "yabanci_sinematvkanallari.m3u",
+      "total": 149,
+      "youtube": 0,
+      "other": 149
+    },
+    {
+      "file": "yabanci_yemektvkanallari.m3u",
+      "total": 19,
+      "youtube": 0,
+      "other": 19
+    },
+    {
       "file": "yabancikarisik.m3u",
       "total": 751,
       "youtube": 751,
       "other": 0
+    },
+    {
+      "file": "yabancitvsporkanallari.m3u",
+      "total": 116,
+      "youtube": 0,
+      "other": 116
     },
     {
       "file": "yerlikarisik.m3u",
