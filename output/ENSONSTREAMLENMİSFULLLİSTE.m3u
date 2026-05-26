@@ -24,7 +24,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" tvg-url="https://www.startv.com.tr/canli-yayin" group-title="ULUSAL",STAR TV HD
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/beyaztvhd-hdtvler-3knp.png" tvg-url="https://www.beyaztv.com.tr/canli-yayin" group-title="ULUSAL",BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv/crea/66214ee7-e787-44b5-af97-8914bf76a04c/660/660759369331965953_360p_01.ts?
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR  HD" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/aspor-volotv-tvlive-ws3y.png" tvg-url="https://www.aspor.com.tr/webtv/canli-yayin" group-title="SPOR",A SPOR  HD
 https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8?st=qnXWH_cxTci_vy3fEM9xww&e=1776894971
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER HD" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/ahaber-hdtvler-7n41.png" tvg-url="https://www.ahaber.com.tr/video/canli-yayin" group-title="HABER",A HABER HD
