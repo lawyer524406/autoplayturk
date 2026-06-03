@@ -1,8 +1,14 @@
 {
-  "timestamp": "2026-06-03 11:33:31 UTC",
+  "timestamp": "2026-06-03 11:33:47 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.21,
+  "elapsed_sec": 0.23,
   "files": [
+    {
+      "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
+      "total": 1903,
+      "youtube": 0,
+      "other": 1903
+    },
     {
       "file": "NetSinema.m3u",
       "total": 6840,
