@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 13:41:13 UTC",
+  "timestamp": "2026-06-05 13:42:34 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.25,
+  "elapsed_sec": 0.29,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
@@ -20,6 +20,12 @@
       "total": 132,
       "youtube": 0,
       "other": 132
+    },
+    {
+      "file": "dunyamusictvkanallari.m3u",
+      "total": 5616,
+      "youtube": 0,
+      "other": 5616
     },
     {
       "file": "dünyanewstv.m3u",
