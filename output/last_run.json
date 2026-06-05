@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 18:42:49 UTC",
+  "timestamp": "2026-06-05 18:43:13 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.41,
+  "elapsed_sec": 0.49,
   "files": [
     {
       "file": "NetSinema.m3u",
@@ -14,6 +14,12 @@
       "total": 132,
       "youtube": 0,
       "other": 132
+    },
+    {
+      "file": "dünyatvkanallari.m3u",
+      "total": 7112,
+      "youtube": 0,
+      "other": 7112
     },
     {
       "file": "kovboy.m3u",
