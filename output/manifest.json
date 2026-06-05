@@ -1,15 +1,8 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-06-05 18:40:54 UTC",
+  "timestamp": "2026-06-05 18:41:33 UTC",
   "lists": [
-    {
-      "name": "ENSONSTREAMLENMİSFULLLİSTE",
-      "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
-      "tab": "sinema",
-      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/ENSONSTREAMLENMİSFULLLİSTE.m3u",
-      "totalChannels": 1787
-    },
     {
       "name": "NetSinema",
       "file": "NetSinema.m3u",
