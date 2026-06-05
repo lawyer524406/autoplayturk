@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05 13:46:12 UTC",
+  "timestamp": "2026-06-05 13:46:45 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
   "elapsed_sec": 0.35,
   "files": [
@@ -62,12 +62,6 @@
       "total": 1893,
       "youtube": 1893,
       "other": 0
-    },
-    {
-      "file": "yabancitvsporkanallari.m3u",
-      "total": 116,
-      "youtube": 0,
-      "other": 116
     },
     {
       "file": "yerlikarisik.m3u",
