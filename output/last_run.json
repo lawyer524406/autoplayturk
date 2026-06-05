@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 13:42:34 UTC",
+  "timestamp": "2026-06-05 13:42:54 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.29,
+  "elapsed_sec": 0.28,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
@@ -26,12 +26,6 @@
       "total": 5616,
       "youtube": 0,
       "other": 5616
-    },
-    {
-      "file": "dünyanewstv.m3u",
-      "total": 926,
-      "youtube": 0,
-      "other": 926
     },
     {
       "file": "kovboy.m3u",
