@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 13:48:15 UTC",
+  "timestamp": "2026-06-05 13:48:50 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.5,
+  "elapsed_sec": 0.49,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
@@ -79,12 +79,6 @@
       "file": "yerlikomedi.m3u",
       "total": 2292,
       "youtube": 2292,
-      "other": 0
-    },
-    {
-      "file": "yt_kanal.m3u",
-      "total": 52,
-      "youtube": 52,
       "other": 0
     },
     {
