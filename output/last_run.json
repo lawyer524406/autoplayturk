@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 18:42:20 UTC",
+  "timestamp": "2026-06-05 18:42:49 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.43,
+  "elapsed_sec": 0.41,
   "files": [
     {
       "file": "NetSinema.m3u",
@@ -20,6 +20,12 @@
       "total": 230,
       "youtube": 230,
       "other": 0
+    },
+    {
+      "file": "turktvkanallarifull.m3u",
+      "total": 2292,
+      "youtube": 0,
+      "other": 2292
     },
     {
       "file": "yabanci_sinematvkanallari.m3u",
