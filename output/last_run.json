@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 13:46:45 UTC",
+  "timestamp": "2026-06-05 13:47:09 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.35,
+  "elapsed_sec": 0.34,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
@@ -62,6 +62,12 @@
       "total": 1893,
       "youtube": 1893,
       "other": 0
+    },
+    {
+      "file": "yabancitvsporkanallari.m3u",
+      "total": 173,
+      "youtube": 0,
+      "other": 173
     },
     {
       "file": "yerlikarisik.m3u",
