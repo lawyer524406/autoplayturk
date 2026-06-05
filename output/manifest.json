@@ -1,7 +1,7 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-06-05 18:43:37 UTC",
+  "timestamp": "2026-06-05 18:44:11 UTC",
   "lists": [
     {
       "name": "NetSinema",
@@ -44,6 +44,13 @@
       "tab": "tv",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/turktvkanallarifull.m3u",
       "totalChannels": 2292
+    },
+    {
+      "name": "turkvedunyaradyolari",
+      "file": "turkvedunyaradyolari.m3u",
+      "tab": "radyo",
+      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/turkvedunyaradyolari.m3u",
+      "totalChannels": 636
     },
     {
       "name": "yabanci_sinematvkanallari",
