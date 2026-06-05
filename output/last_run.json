@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 13:49:11 UTC",
+  "timestamp": "2026-06-05 13:50:00 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.65,
+  "elapsed_sec": 0.46,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
@@ -89,14 +89,8 @@
     },
     {
       "file": "yt_kanal1.m3u",
-      "total": 361,
-      "youtube": 361,
-      "other": 0
-    },
-    {
-      "file": "yt_kanal2.m3u",
-      "total": 3054,
-      "youtube": 3054,
+      "total": 732,
+      "youtube": 732,
       "other": 0
     },
     {
