@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 18:41:33 UTC",
+  "timestamp": "2026-06-05 18:42:20 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.51,
+  "elapsed_sec": 0.43,
   "files": [
     {
       "file": "NetSinema.m3u",
@@ -16,28 +16,10 @@
       "other": 132
     },
     {
-      "file": "dunyamusictvkanallari.m3u",
-      "total": 5616,
-      "youtube": 0,
-      "other": 5616
-    },
-    {
-      "file": "dünyanewstv.m3u",
-      "total": 7011,
-      "youtube": 0,
-      "other": 7011
-    },
-    {
       "file": "kovboy.m3u",
       "total": 230,
       "youtube": 230,
       "other": 0
-    },
-    {
-      "file": "sinema.m3u",
-      "total": 26,
-      "youtube": 0,
-      "other": 26
     },
     {
       "file": "yabanci_sinematvkanallari.m3u",
