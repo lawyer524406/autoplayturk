@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-05 13:43:39 UTC",
+  "timestamp": "2026-06-05 13:44:54 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.29,
+  "elapsed_sec": 0.32,
   "files": [
     {
       "file": "ENSONSTREAMLENMİSFULLLİSTE.m3u",
@@ -44,12 +44,6 @@
       "total": 26,
       "youtube": 0,
       "other": 26
-    },
-    {
-      "file": "yabanci_sinematvkanallari.m3u",
-      "total": 149,
-      "youtube": 0,
-      "other": 149
     },
     {
       "file": "yabanci_yemektvkanallari.m3u",

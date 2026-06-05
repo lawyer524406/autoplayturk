@@ -1,7 +1,7 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-06-05 13:43:39 UTC",
+  "timestamp": "2026-06-05 13:44:54 UTC",
   "lists": [
     {
       "name": "ENSONSTREAMLENMİSFULLLİSTE",
@@ -51,13 +51,6 @@
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/sinema.m3u",
       "totalChannels": 26
-    },
-    {
-      "name": "yabanci_sinematvkanallari",
-      "file": "yabanci_sinematvkanallari.m3u",
-      "tab": "tv",
-      "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yabanci_sinematvkanallari.m3u",
-      "totalChannels": 149
     },
     {
       "name": "yabanci_yemektvkanallari",
