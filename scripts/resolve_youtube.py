@@ -28,13 +28,13 @@ TAB_MAP = {
     'yt_kanal2.m3u':      'sinema',
     'yt_kanal3.m3u':      'sinema',
     # TV kanal listeleri (HLS/canli yayin URL'leri)
-    'turktvkanallarifull.m3u': 'tv',
+    'turktvkanallarifull.m3u':        'tv',
     'dunyamusictvkanallari.m3u':      'tv',
     'yabanci_sinematvkanallari.m3u':  'tv',
     'yabanci_yemektvkanallari.m3u':   'tv',
     'yabancitvsporkanallari.m3u':     'tv',
     'dunyabelgeseltv.m3u':            'tv',
-    'dünyatvkanallari.m3u':                'tv',
+    'dünyatvkanallari.m3u':           'tv',
     # Radyo akislari
     'turkvedunyaradyolari.m3u':              'radyo',
 }
