@@ -35,6 +35,7 @@ TAB_MAP = {
     'yabancitvsporkanallari.m3u':     'tv',
     'dunyabelgeseltv.m3u':            'tv',
     'dünyatvkanallari.m3u':           'tv',
+    'vavoo.m3u': 'tv',
     # Radyo akislari
     'turkvedunyaradyolari.m3u':              'radyo',
 }
