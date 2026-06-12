@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-12 04:26:57 UTC",
+  "timestamp": "2026-06-12 15:26:37 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.51,
+  "elapsed_sec": 0.53,
   "files": [
     {
       "file": "NetSinema.m3u",
