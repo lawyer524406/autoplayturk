@@ -1849,11 +1849,9 @@ https://edge2.taksimbilisim.com/birtv/bant1/chunks.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="Fashionone Tv" tvg-name="Fashion One TV  " tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" tvg-url="https://www.numberone.com.tr/2015/12/18/fashionone-tv-canli-yayin/" group-title="ULUSAL",Fashion One TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8?md5=O8I2rZrgEELY1Fd2-ds2dw&expires=1780995123
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="Show Max " tvg-logo="https://www.showmax.com.tr/assets/dist/images/base/logo.svg" tvg-url="https://www.showmax.com.tr/" group-title="ULUSAL",Show Max
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p-1780858570000.ts
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="Show Max " tvg-logo="https://www.showmax.com.tr/assets/dist/images/base/logo.svg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",Show Max
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX" tvg-logo="https://www.showmax.com.tr/assets/dist/images/base/logo.svg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",SHOW MAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_720p.m3u8
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="Show Max " tvg-logo="https://www.showmax.com.tr/assets/dist/images/base/logo.svg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",Show Max
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX" tvg-logo="https://www.showmax.com.tr/assets/dist/images/base/logo.svg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",SHOW MAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion One TV Yedek 1" tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" tvg-url="https://www.numberone.com.tr/2015/12/18/fashionone-tv-canli-yayin/" group-title="ULUSAL",Fashion One TV Yedek 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8?md5=O8I2rZrgEELY1Fd2-ds2dw&expires=1780995123
