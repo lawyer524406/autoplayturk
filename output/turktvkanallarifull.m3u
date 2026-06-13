@@ -364,7 +364,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 #EXTINF:-1 tvg-id="" tvg-name="Semerkand Tv" tvg-logo="https://www.canlitv.diy/kanal/logo/34/12003.jpg" tvg-url="https://www.canlitv.tel/" group-title="DİNİ",Semerkand Tv
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW MAX" tvg-logo="https://www.canlitv.diy/kanal/logo/34/12646.jpg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",SHOW MAX
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_360p.m3u8
+https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1781384658&st=tQ1L3JBlJBVNkeGQayDhRQ&tv=1
+#EXTINF:-1 tvg-id="" tvg-name="SHOW MAX" tvg-logo="https://www.canlitv.diy/kanal/logo/34/12646.jpg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",SHOW MAX
+https://ciner-live.ercdn.net/showmax/showmax_720p-1781377451.ts?e=1781384658&st=tQ1L3JBlJBVNkeGQayDhRQ&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="https://www.canlitv.diy/kanal/logo/34/4.jpg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?ex=10800&hash=44babc91f774f13a4a7c94b3826bd15b&st=2mPcHTu0nU6W788NYmj6sw&sid=8h69bv3t7m9t&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="https://www.canlitv.diy/kanal/logo/34/99.jpg" tvg-url="https://www.canlitv.tel/" group-title="ULUSAL",STAR TV
