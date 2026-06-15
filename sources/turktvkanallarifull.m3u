@@ -1073,7 +1073,7 @@ https://tmp3-cdn-edge-live08.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="BLİZZ TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/blizztvde-hdtvler-to9t.png" tvg-url="https://tv.canlitvvolo.com/blizz-tv-live/" group-title="YABANCI",BLİZZ TV
 https://h056.video-stream-hosting.de/easycast9-live/mp4:livestream999/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://tr.tvkulesi.com/logo/bloomberg-live.png" tvg-url="https://www.bloomberg.com" group-title="YABANCI",BLOOMBERG HT
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG" tvg-logo="https://tr.tvkulesi.com/logo/bloomberg-live.png" tvg-url="https://www.bloomberg.com" group-title="YABANCI",BLOOMBERG
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR De" tvg-logo="https://tr.tvkulesi.com/logo/br-live.png" group-title="YABANCI",BR De
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
@@ -3215,7 +3215,7 @@ https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
 https://streams.uzunmuhalefet.com/stream/843d8857-d125-4188-84f9-0d261976c51f.m3u8
 #EXTINF:-1 tvg-id="BiKanal.tr" tvg-name="Bİ KANAL" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/bi-kanal-tv-tvlive-3pc0.png" tvg-url="https://www.bikanal.com/canli-yayin" group-title="HABER",Bİ KANAL
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://cdn.technettv.com/channel/20322/logo_256_1699957451.png" group-title="HABER",BLOOMBERG HT
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://cdn.technettv.com/channel/20322/logo_256_1699957451.png" group-title="EKONOMİ",BLOOMBERG HT
 https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F236989031b5bce3e87ca9
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK" tvg-logo="https://cdn.technettv.com/channel/22961/logo_256_1707397512.png" group-title="HABER",CNN TÜRK
 https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F427315396743dfe9212c50
@@ -5164,8 +5164,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-azer
 #EXTINF:-1 tvg-id="MTV.tr" tvg-name="VIP" tvg-logo="---" tvg-url="https://raw.githubusercontent.com" group-title="AZERBAYCAN",VIP
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-id="XezerTV.tr" tvg-name="Xəzər TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/xezertvaz-logo-tvlive-8nmp.png" tvg-url="https://raw.githubusercontent.com" group-title="AZERBAYCAN",Xəzər TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8#EXTINF:-1#EXTINF:-1 tvg-id="" tvg-name="KÖY TV" tvg-logo="" tvg-url="https://koytv.com/tv-programlari/koy-tv-canli-yayin/" group-title="YEREL",KÖY TV
-https://yayin1.canlitv.fun/canlitv/koytv.stream/chunklist_w314161217.m3u8?hash=cfbe220085b07bb7ac6bcc307f9744aa
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8#EXTINF:-1#EXTINF:-1
 #EXTINF:-1 tvg-id="" tvg-name="KÖY TV" tvg-logo="" tvg-url="https://koytv.com/tv-programlari/koy-tv-canli-yayin/" group-title="YEREL",KÖY TV
 https://yayin1.canlitv.fun/canlitv/koytv.stream/playlist.m3u8?hash=cfbe220085b07bb7ac6bcc307f9744aa
 #EXTINF:-1 tvg-id="" tvg-name="SUDURAĞI TV" tvg-logo="" tvg-url="https://www.suduragitv.com/canli-izle" group-title="YEREL",SUDURAĞI TV
