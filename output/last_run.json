@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-17 10:51:46 UTC",
+  "timestamp": "2026-06-17 11:07:46 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.41,
+  "elapsed_sec": 0.54,
   "files": [
     {
       "file": "NetSinema.m3u",
@@ -41,9 +41,9 @@
     },
     {
       "file": "turktvkanallarifull.m3u",
-      "total": 2589,
+      "total": 1387,
       "youtube": 0,
-      "other": 2589
+      "other": 1387
     },
     {
       "file": "turkvedunyaradyolari.m3u",
