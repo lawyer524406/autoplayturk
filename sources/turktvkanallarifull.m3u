@@ -1135,8 +1135,6 @@ https://tv191.radyotelekom.com.tr:3451/stream/play.m3u8
 https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="HABERTÜRK" tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg" group-title="HABER",HABERTÜRK
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/halktv-hdtvler-pcf4.png" group-title="HABER",HALK TV
-https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" tvg-url="https://famelack.com/tv/tr/bxi4Hq4FcCvPGc" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" tvg-url="https://famelack.com/tv/tr/bxi4Hq4FcCvPGc" group-title="HABER",HALK TV
@@ -1211,8 +1209,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781719407/ei/
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781719407/ei/D40yar6LIeHN6dsPx7aFmQc/ip/81.213.155.236/id/ds7aS4H1fbs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-u0g3uxax3-5nge.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEWYn7GT1qv1iGW-t3Uq0qdPTgL3zF-4vnrUc94I-vZNjLTnSK_um_OKUtJQ8nle0hX2YTc5noMX/spc/SQ-umhY1-dIbOP_kyS-Up7nK0LIdqIWYwaR2ugXSlf3c0fc/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2018750/met/1781697808,/mh/rO/mm/44/mn/sn-u0g3uxax3-5nge/ms/lva/mv/m/mvi/1/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51946838,51987687,51992868,51992898/mt/1781697392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgJEmUjC08QhqKrvalbsA54svB2_bLl86SJza9RrSQbncCIQDNrWoKhdWojBDuLIH2pMK6FPvQC8izoEFsIhed_o50aA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAO9Q2GrG5U8_tr3RXGuhW_od1LYMYyt4kkdppoJj0YD-AiBORt--xqoxq71eDss-Qi32HZqOyrXPr5PcFR_EEOOvKw%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AKİT TV" tvg-logo="" tvg-url="https://www.akittv.com.tr/canli-izle" group-title="HABER",AKİT TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781719407/ei/D40yar6LIeHN6dsPx7aFmQc/ip/81.213.155.236/id/ds7aS4H1fbs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEWYn7GT1qv1iGW-t3Uq0qdPTgL3zF-4vnrUc94I-vZNjLTnSK_um_OKUtJQ8nle0hX2YTc5noMX/spc/SQ-umhY1-dIbOP_kyS-Up7nK0LIdqIWYwaR2ugXSlf3c0fc/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51946838%2C51987687%2C51992868%2C51992898/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgaaX1mXxdDzplzS9bxZA_wzSbHE9FPVNF7r8cDtq-yQcCID5miNxfMHAQxH23NonkyWO_pTw0qvbkZ5BJn-cWWJUF/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AKİT TV" tvg-logo="" tvg-url="https://www.akittv.com.tr/canli-izle" group-title="HABER",AKİT TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781719407/ei/D40yar6LIeHN6dsPx7aFmQc/ip/81.213.155.236/id/ds7aS4H1fbs.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/rqh/1/hls_chunk_host/rr1---sn-u0g3uxax3-5nge.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEWYn7GT1qv1iGW-t3Uq0qdPTgL3zF-4vnrUc94I-vZNjLTnSK_um_OKUtJQ8nle0hX2YTc5noMX/spc/SQ-umhY1-dIbOP_kyS-Up7nK0LIdqIWYwaR2ugXSlf3c0fc/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2018750/met/1781697808,/mh/rO/mm/44/mn/sn-u0g3uxax3-5nge/ms/lva/mv/m/mvi/1/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51946838,51987687,51992868,51992898/mt/1781697392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgHXelTOTYxPC-iKmWLLaW9TqwL-4TxRk5rkV5wKItiJYCIQCAbeX7pRhtJCdZgMZPZeyenJOhPPi23voMjKtgUNbwsg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJ-ZUjf7rxlqIsP_2lj30f-X1N4PLe5uuRXrqqiFlYC9AiBY5vNfItbcACjRWsyJ-Bq-eq84nC_mMYiN1vqaE4HokQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" tvg-url="https://www.ntv.com.tr/canli-yayin/ntv" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" tvg-url="https://www.ntv.com.tr/canli-yayin/ntv" group-title="HABER",NTV
@@ -1233,6 +1229,16 @@ https://dogus.daioncdn.net/ntv/ntv_480p.m3u8?token=e8c0dec16bf84c8cc187224d13811
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?&sid=8i83nl5skyx8&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" tvg-url="https://www.ntv.com.tr/canli-yayin/ntv" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=8i83nk30npoo&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" tvg-url="https://halktv.com.tr/canli-yayin" group-title="HABER",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=8i85j77q3eqh&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" tvg-url="https://halktv.com.tr/canli-yayin" group-title="HABER",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_360p.m3u8?sid=8i85j77q3eqh&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" tvg-url="https://halktv.com.tr/canli-yayin" group-title="HABER",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_480p.m3u8?sid=8i85j77q3eqh&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" tvg-url="https://halktv.com.tr/canli-yayin" group-title="HABER",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=8i85j77q3eqh&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="" tvg-url="https://www.liderhaber.com.tr/lider-haber-tv-canli-yayin" group-title="HABER",LİDER HABER
+https://radyotelekomtv.com/player/m3u8/12e31d9bb13fb21e4adcd3b67cfe7826/12e31d9bb13fb21e4adcd3b67cfe7826.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="ADA TV" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/adatv-hdtvler-vuj8.png" tvg-url="https://www.canlitv.tel/" group-title="KIBRIS",ADA TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=44babc91f774f13a4a7c94b3826bd15b
 #EXTINF:-1 tvg-id="" tvg-name="ADA YV" tvg-logo="https://www.canlitv.diy/kanal/logo/34/10650.jpg" tvg-url="https://www.canlitv.tel/" group-title="KIBRIS",ADA YV
@@ -2794,4 +2800,4 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-name="z.EuroSport 2" tvg-logo="noimage.png" tvg-url="http://151.80.18.177:86" group-title="ÖZEL SPOR",z.EuroSport 2
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Z.FIFA ++" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" tvg-url="https://a62dad94.wurl.com" group-title="ÖZEL SPOR",Z.FIFA ++
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8#EXTINF:-1#EXTINF:-1
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8#EXTINF:-1#EXTINF:-1#EXTINF:-1
