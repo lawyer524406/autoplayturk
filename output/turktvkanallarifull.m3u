@@ -1581,7 +1581,7 @@ https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
 https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F236989031b5bce3e87ca9
 #EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TÜRK" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/cnn_turk.png" group-title="HABER",CNN TÜRK
 https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F427315396743dfe9212c50
-#EXTINF:-1 tvg-id="DHA Canlı 1" tvg-name="DHA 1" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" tvg-url="https://603c568fccdf5.streamlock.net" group-title="HAABER",DHA 1
+#EXTINF:-1 tvg-id="DHA Canlı 1" tvg-name="DHA 1" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" tvg-url="https://603c568fccdf5.streamlock.net" group-title="HABER",DHA 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="EKO TÜRK" tvg-logo="https://www.ekoturk.com/wp-content/themes/eko-news/images/ekoturk-logo-v2.png" group-title="HABER",EKO TÜRK
 https://new.cache-stream.workers.dev/stream/UCAGVKxpAKwXMWdmcHbrvcwQ/live.m3u8
