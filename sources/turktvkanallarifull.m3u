@@ -701,7 +701,7 @@ https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BULTÜRK TV" tvg-logo="https://i0.wp.com/bulturk.org.tr/v2/wp-content/uploads/2025/12/Gemini_Generated_Image_3491yh3491yh3491.png?resize=820%2C360&ssl=1" tvg-url="https://bulturk.org.tr/" group-title="ULUSAL",BULTÜRK TV
 https://live.euromediacenter.com/bulturktv/video.m3u8
-#EXTINF:-1 tvg-id="DHA Canlı 2" tvg-name="DHA 2" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" tvg-url="https://603c568fccdf5.streamlock.net" group-title="HAABER",DHA 2
+#EXTINF:-1 tvg-id="DHA Canlı 2" tvg-name="DHA 2" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" tvg-url="https://603c568fccdf5.streamlock.net" group-title="HABER",DHA 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="EURO D" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png" tvg-url="https://streams.uzunmuhalefet.com" group-title="ULUSAL",EURO D
 https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8
