@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-17 04:43:24 UTC",
+  "timestamp": "2026-06-17 10:51:46 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.53,
+  "elapsed_sec": 0.41,
   "files": [
     {
       "file": "NetSinema.m3u",
@@ -47,9 +47,9 @@
     },
     {
       "file": "turkvedunyaradyolari.m3u",
-      "total": 636,
+      "total": 593,
       "youtube": 0,
-      "other": 636
+      "other": 593
     },
     {
       "file": "vavoo.m3u",
