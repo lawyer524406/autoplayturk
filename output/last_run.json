@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-29 04:24:10 UTC",
+  "timestamp": "2026-06-29 13:16:26 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.47,
+  "elapsed_sec": 0.51,
   "files": [
     {
       "file": "NetSinema.m3u",
@@ -53,9 +53,9 @@
     },
     {
       "file": "vavoo.m3u",
-      "total": 611,
+      "total": 976,
       "youtube": 0,
-      "other": 611
+      "other": 976
     },
     {
       "file": "yabanci_sinematvkanallari.m3u",
