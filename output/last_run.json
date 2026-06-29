@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29 13:16:26 UTC",
+  "timestamp": "2026-06-29 15:08:40 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT",
   "elapsed_sec": 0.51,
   "files": [
@@ -41,9 +41,9 @@
     },
     {
       "file": "turktvkanallarifull.m3u",
-      "total": 3384,
+      "total": 3386,
       "youtube": 0,
-      "other": 3384
+      "other": 3386
     },
     {
       "file": "turkvedunyaradyolari.m3u",
