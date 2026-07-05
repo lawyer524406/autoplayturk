@@ -385,12 +385,10 @@ https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
 https://bikanal-live.ercdn.net/bikanal/bikanal_360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bİ KANAL" tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" tvg-url="https://www.bikanal.com/canli-yayin" group-title="HABER",Bİ KANAL
 https://bikanal-live.ercdn.net/bikanal/bikanal_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="https://image.cnnturk.com/i/cnnturk/75/1200x675/5ce7a1d2ae78491d80da5e27.jpg" tvg-url="https://tr.canlitv.watch/cnn-turk" group-title="HABER",CNN TÜRK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783181331/ei/s9tIaqL0NvDN6dsPprHG0QY/ip/2a09%3Abac1%3A72c0%3Af00%3A0%3A0%3A3d7%3A43/id/6N8_r2uwLEc.221/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWOZMzhXmlacSNwqYIGucvnsH0zCCQQT9zLrRHJu458j7VQGOZ3VYVV_p2qQh_s1T4E-WApHXtZ/spc/SQ-umjcdZvlsIQEyeitDytytRcE-bSwZHvv3GU10faRDqv9N707MaUOnTvNJcJFV6U8meQ/vprv/1/go/1/ns/nQWEQqSiIEZCbUHu9tNTUd0W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52016550%2C52017146/dover/11/n/agoM62-xZ3ED5hT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgHNCGxgaTgaKL-02wzR1Nbjx2HQNWRbIYd9tP2gEDxRoCIQDG5y8gqCfPUUMz5f8gBo1q7Qbd8Rgzr0_HlVw0yDbT9Q%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="https://image.cnnturk.com/i/cnnturk/75/1200x675/5ce7a1d2ae78491d80da5e27.jpg" tvg-url="https://www.cnnturk.com/canli-yayin" group-title="HABER",CNN TÜRK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=k0wf0CfXQXWpvw5SQWKAOA&e=1783170532
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=iomM_7NifZSBhxFXVxmpWg&e=1783273102
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="https://image.cnnturk.com/i/cnnturk/75/1200x675/5ce7a1d2ae78491d80da5e27.jpg" tvg-url="https://www.cnnturk.com/canli-yayin" group-title="HABER",CNN TÜRK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_0_192/playlist.m3u8?&live=true&app=com.cnnturk&st=k0wf0CfXQXWpvw5SQWKAOA&e=1783170532
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=iomM_7NifZSBhxFXVxmpWg&e=1783273102
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="https://image.cnnturk.com/i/cnnturk/75/1200x675/5ce7a1d2ae78491d80da5e27.jpg" tvg-url="https://www.cnnturk.com/canli-yayin" group-title="HABER",CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8?&live=true&app=com.cnnturk&st=k0wf0CfXQXWpvw5SQWKAOA&e=1783170532
 #EXTINF:-1 tvg-id="" tvg-name="CNN TÜRK" tvg-logo="https://image.cnnturk.com/i/cnnturk/75/1200x675/5ce7a1d2ae78491d80da5e27.jpg" tvg-url="https://www.cnnturk.com/canli-yayin" group-title="HABER",CNN TÜRK
@@ -625,7 +623,7 @@ https://tv100.daioncdn.net/tv100/tv100_720p.m3u8?&sid=8jwf44l05sdt&app=356e7599-
 https://radyotelekomtv.com/player/m3u8/d38a38af9446339ff2540c460955f115/d38a38af9446339ff2540c460955f115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNET" tvg-logo="https://www.tvnet.com.tr/img/logo.png" tvg-url="https://tr.canlitv.watch/tvnet" group-title="HABER",TVNET
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783182148/ei/5N5IavGaE_vM6dsPs7rmEQ/ip/2a09%3Abac5%3A58be%3A268c%3A0%3A0%3A3d7%3A43/id/Z5bqy4gwEmc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828971/txs/51828969%2C51828970%2C51828971/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWlwq_GdmmVbzdMZUWBEPcpsdwO7udwYdE--ApQEpExxztMLPen8uTp1Sjo_CfXmuhLcj6ddK_5/spc/SQ-umvGC5cK_o-koYFjzW6KPb9PhtTOhrk7Gg_ClCg1C7I3FeKPW6L9rfC_XBXyB-0qndQ/vprv/1/go/1/ns/DAPsfZ5HPNr1vF9ZWdYIzxQW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51973819%2C52016550/dover/11/n/GJnSfvDqR6ojMzT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgdcXj6Zj0o5zwDJ8WXtRsZ2W4HIO_Q0Tb58j8byOIed8CIQCTpZXyTUmjqy3LZHAe4zlCavqtE1aET6mlH4FSoYKQaw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TÜRK HABER" tvg-logo="" tvg-url="https://tr.canlitv.watch/turk-haber-tv" group-title="HABER",TÜRK HABER
+#EXTINF:-1 tvg-id="" tvg-name="TÜRK HABER" tvg-logo="https://files.sikayetvar.com/lg/cmp/29/291176.png?1696925660" tvg-url="https://tr.canlitv.watch/turk-haber-tv" group-title="HABER",TÜRK HABER
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwGSSBFh6fDuKFiQNOeMGFrrvnVJna5C3YnuSIwlB4eS5bvrGp6Iy_ZSh&s=10" tvg-url="https://tr.canlitv.watch/ulke-tv" group-title="HABER",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -1094,13 +1092,17 @@ https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ex=1664766175&st=RBzhSuGauna0
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" tvg-url="https://www.showtv.com.tr/canli-yayin" group-title="ULUSAL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8jwexipbr4ft&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TÜRK" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" tvg-url="https://www.showturk.com.tr/canli-yayin" group-title="ULUSAL",SHOW TÜRK
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1783167578&st=E_5NxGP2TQCW06GY6XKdOg&tv=1
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1783178260&st=NMBLHFyiFcjfKZZh1hPsWw&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TÜRK" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" tvg-url="https://www.showturk.com.tr/canli-yayin" group-title="ULUSAL",SHOW TÜRK
-https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1783167578&st=E_5NxGP2TQCW06GY6XKdOg&tv=1
+https://ciner-live.ercdn.net/showturk/showturk_720p-1783171060.ts?e=1783178260&st=NMBLHFyiFcjfKZZh1hPsWw&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TÜRK" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" tvg-url="https://www.showturk.com.tr/canli-yayin" group-title="ULUSAL",SHOW TÜRK
-https://ciner-live.ercdn.net/showturk/showturk_360p.m3u8?e=1783167578&st=E_5NxGP2TQCW06GY6XKdOg&tv=1
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1783178356&st=C_D75MuIcK2uqdjMVOmpuQ&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TÜRK" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" tvg-url="https://www.showturk.com.tr/canli-yayin" group-title="ULUSAL",SHOW TÜRK
-https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1783167578&st=E_5NxGP2TQCW06GY6XKdOg&tv=1
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1783178356&st=C_D75MuIcK2uqdjMVOmpuQ&tv=1
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TÜRK" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" tvg-url="https://www.showturk.com.tr/canli-yayin" group-title="ULUSAL",SHOW TÜRK
+https://ciner-live.ercdn.net/showturk/showturk_360p.m3u8?e=1783178356&st=C_D75MuIcK2uqdjMVOmpuQ&tv=1
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TÜRK" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" tvg-url="https://www.showturk.com.tr/canli-yayin" group-title="ULUSAL",SHOW TÜRK
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1783178356&st=C_D75MuIcK2uqdjMVOmpuQ&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle-thumbnail.png" tvg-url="https://tr.canlitv.watch/star-tv" group-title="ULUSAL",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 #EXTINF:-1 tvg-id="" tvg-name="TEVE2" tvg-logo="" tvg-url="https://tr.canlitv.watch/teve2" group-title="ULUSAL",TEVE2

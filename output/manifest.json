@@ -1,7 +1,7 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-07-05 13:50:20 UTC",
+  "timestamp": "2026-07-05 15:14:30 UTC",
   "lists": [
     {
       "name": "NetSinema",
@@ -50,7 +50,7 @@
       "file": "turktvkanallarifull.m3u",
       "tab": "tv",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/turktvkanallarifull.m3u",
-      "totalChannels": 718
+      "totalChannels": 719
     },
     {
       "name": "turkvedunyaradyolari",
