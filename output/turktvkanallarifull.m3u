@@ -425,9 +425,9 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 https://canli.kontv.com.tr/live/kontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KON TV KONYA" tvg-logo="https://kontv.tr/wp-content/uploads/2025/10/KonTV-Logo-Yatay-beyaz.png" tvg-url="https://kontv.tr/canli-yayin/" group-title="YEREL",KON TV KONYA
 https://yayin1.canlitv.fun/canlitv/kontv.stream/playlist.m3u8?hash=3f66a694cd7d61aea834ec1fa7b0966f
-#EXTINF:-1 tvg-id="" tvg-name="KOZA TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/kozatv.png"https://www.kozatv.com.tr/" tvg-quality="101080" group-title="YEREL",KOZA TV
+#EXTINF:-1 tvg-id="" tvg-name="KOZA TV" tvg-logo="https://yt3.googleusercontent.com/zeSW-pcjB7MDRVrnHKHgeFouffWFGkTKe0GsHcKEqQPZZ52RmBGeTTeJKEyKjzI4xoekGPpZYg=s160-c-k-c0x00ffffff-no-rj" tvg-url="https://www.kozatv.com.tr/" tvg-quality="101080" group-title="YEREL",KOZA TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783545986/ei/ImxOatr7F_rPi9oP88Dw4Q4/ip/5.47.109.99/id/0TBY2WtWW7g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828969/txs/51828969%2C51828970%2C51828971/hfr/1/bui/ARmQxEWin8sfKLwZUWaDrW_WBb_7bmC6GJcZayTngps1izQ0XbdlcZN-3tS_QQTo_NZgTdCrGg-40PDT/spc/SQ-ummg-SlQ6HnExWRP9oBzeQwJgUa1C7OFbEsW72LxEWfTLCQ/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANAzL_sG_muiXgQYUaEzNhSnk_HwDLoNS7wAjSgPQGqNAiEAnVR6WmemG6OqbNAXnUgaJNd3VEol4C2oR-Dc5KSW5U4%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KOZA TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/kozatv.png" tvg-url="https://www.kozatv.com.tr/" group-title="YEREL",KOZA TV
+#EXTINF:-1 tvg-id="" tvg-name="KOZA TV" tvg-logo="https://yt3.googleusercontent.com/zeSW-pcjB7MDRVrnHKHgeFouffWFGkTKe0GsHcKEqQPZZ52RmBGeTTeJKEyKjzI4xoekGPpZYg=s160-c-k-c0x00ffffff-no-rj" tvg-url="https://www.kozatv.com.tr/" group-title="YEREL",KOZA TV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783545986/ei/ImxOatr7F_rPi9oP88Dw4Q4/ip/5.47.109.99/id/0TBY2WtWW7g.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-u0g3uxax3-n14l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEWin8sfKLwZUWaDrW_WBb_7bmC6GJcZayTngps1izQ0XbdlcZN-3tS_QQTo_NZgTdCrGg-40PDT/spc/SQ-ummg-SlQ6HnExWRP9oBzeQwJgUa1C7OFbEsW72LxEWfTLCQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/697500/met/1783524387,/mh/s9/mm/44/mn/sn-u0g3uxax3-n14l/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,52017147/mt/1783523792/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAO0mrRG-8-Hrv51FGgDDn7NSMBxJVLMHoNww-YCwxCczAiAHDol6-s-Rw-emNbtQuL7N4G9ZApjyd2qHhNEkP5wFwA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIhAN7EdkAJI6ljh4__L0FU7t1tbjp_ZXfeRFKngPjNiFtEAiBVUyWGavAEpEhNnkMtnP_nnCpOQhjqr3R1lReCdGQhPw%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV" tvg-logo="https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png?v=3" tvg-url="https://www.kralmuzik.com.tr/tv/kral-pop-tv" tvg-quality="100000" group-title="MÜZİK",KRAL POP TV
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
@@ -503,9 +503,9 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MERCAN TV ADIYAMAN" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_106.png?v=3" tvg-url="https://www.artidijitalmedya.com/tv/mercantv/" tvg-quality="100576" group-title="YEREL",MERCAN TV ADIYAMAN
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MERKEZ TV" tvg-logo="https://yt3.googleusercontent.com/xmYomVmma0ahrpiW6VUMus2SURhhA2oFwQUXnaAe63Eee0Z7-c7pEbVRxIjx1LMJZwKVFeLI2w=s900-c-k-c0x00ffffff-no-rj" tvg-url="https://www.merkeztv.net/" group-title="YEREL",MERKEZ TV
+#EXTINF:-1 tvg-id="" tvg-name="MERKEZ TV" tvg-logo="https://tr.canlitv.watch/merkez-tv" tvg-url="https://www.merkeztv.net/" group-title="YEREL",MERKEZ TV
 https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIHRAP TV" tvg-logo="https://tr.canlitv.watch/mihrap-tv" tvg-url="" group-title="DİNİ",MIHRAP TV
+#EXTINF:-1 tvg-id="" tvg-name="MIHRAP TV" tvg-logo="tvg-url="https://tr.canlitv.watch/mihrap-tv" group-title="DİNİ",MIHRAP TV
 https://yayin30.haber100.com/live/mihraptv/chunklist_w1310824063.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO" tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png" tvg-url="https://tr.canlitv.watch/minika-go" tvg-quality="100720" group-title="ÇOCUK",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
@@ -1189,63 +1189,23 @@ https://str.yodacdn.net/tmb_tr_app/tracks-v1a1/mono.ts.m3u8?token=tmb_app_token_
 https://str.yodacdn.net/tmb_tr_app/tracks-v2a1/mono.ts.m3u8?token=tmb_app_token_13579
 #EXTINF:-1 tvg-id="" tvg-name="TON TV ÇANAKKALE" tvg-logo="https://tvlogolar.xyz/europa/turkey/tontv.png" tvg-url="https://www.artidijitalmedya.com/tv/tontv/" tvg-quality="101080" group-title="YEREL",TON TV ÇANAKKALE
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" tvg-quality="101440" group-title="TRT",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101440" group-title="TRT",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101440" group-title="TRT",TRT 1
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabii-spor1/trt-tabii-spor1-hls-drm/trt-tabii-spor1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabii-tv/tabii-tv-hls-drm/trt-tabii-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiicocuk/trt-tabiicocuk-hls-drm/trt-tabiicocuk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor/trt-tabiispor-hls-drm/trt-tabiispor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor2/trt-tabiispor2-hls-drm/trt-tabiispor2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor3/trt-tabiispor3-hls-drm/trt-tabiispor3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor4/trt-tabiispor4-hls-drm/trt-tabiispor4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor5/trt-tabiispor5-hls-drm/trt-tabiispor5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" tvg-quality="101080" group-title="TRT",TRT 1
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor6/trt-tabiispor6-hls-drm/trt-tabiispor6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" group-title="TRT",TRT 1
-https://tv-trt1-dash.medya.trt.com.tr/master.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" group-title="TRT",TRT 1
-https://tv-trtbelgesel-dash.medya.trt.com.tr/master.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" group-title="TRT",TRT 1
-https://tv-trtspor-dash.medya.trt.com.tr/master.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" group-title="TRT",TRT 1
-https://tv-trtspor2-dash.medya.trt.com.tr/master.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://tr.canlitv.watch/trt-1" group-title="TRT",TRT 1
-https://tv-trtworld-dash.medya.trt.com.tr/master.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/tr/live-channels/187108" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/tr/live-channels/187108" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1080.m3u8?&sid=8kbc3b7w9v3n&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/tr/live-channels/187108" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/tr/live-channels/187108" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1440.m3u8?&sid=8kbc3b7w9v3n&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/tr/live-channels/187108" group-title="TRT",TRT 1
-https://trt.daioncdn.net/trt-1/master_720.m3u8?&sid=8kbc3b7w9v3n&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1080.m3u8?&sid=8kbc42e10hkl&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1440.m3u8?&sid=8kbc42e10hkl&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/watch/live/trtbelgesel?trackId=150012" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/watch/live/trtbelgesel?trackId=150012" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1080.m3u8?&sid=8kbc42967ldf&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/watch/live/trtbelgesel?trackId=150012" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/watch/live/trtbelgesel?trackId=150012" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1440.m3u8?&sid=8kbc42967ldf&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/tr/watch/live/trt1?trackId=150002" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/tr/watch/live/trt1?trackId=150002" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1080.m3u8?&sid=8kbc42djj75g&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-1-new-2021-logo-png_seeklogo-397127.png" tvg-url="https://www.tabii.com/tr/watch/live/trt1?trackId=150002" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-1-tr.png" tvg-url="https://www.tabii.com/tr/watch/live/trt1?trackId=150002" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_1440.m3u8?&sid=8kbc42djj75g&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZyn39O4mkUU6EMD0pDZqwjML0P1hD01TeaNR9-oORD87ANtKLQg_Y7I&s=10" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" tvg-quality="101440" group-title="TRT",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
