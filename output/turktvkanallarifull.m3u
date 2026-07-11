@@ -1813,7 +1813,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 https://radyotelekomtv.com/player/m3u8/f31db4d7c61b435a8dd88b1cf2bb10c1/f31db4d7c61b435a8dd88b1cf2bb10c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MERCAN TV ADIYAMAN" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_106.png?v=3" tvg-url="https://www.artidijitalmedya.com/tv/mercantv/" tvg-quality="100576" group-title="YEREL",MERCAN TV ADIYAMAN
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MERKEZ TV" tvg-logo="https://tr.canlitv.watch/merkez-tv" tvg-url="https://www.merkeztv.net/" group-title="YEREL",MERKEZ TV
+#EXTINF:-1 tvg-id="" tvg-name="MERKEZ TV" tvg-logo="https://yt3.googleusercontent.com/xmYomVmma0ahrpiW6VUMus2SURhhA2oFwQUXnaAe63Eee0Z7-c7pEbVRxIjx1LMJZwKVFeLI2w=s900-c-k-c0x00ffffff-no-rj" tvg-url="https://www.merkeztv.net/" group-title="YEREL",MERKEZ TV
 https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEF TV" tvg-logo="https://media.licdn.com/dms/image/v2/D4D16AQFIbyjCm5N3zQ/profile-displaybackgroundimage-shrink_200_800/B4DZb0gepZHEAU-/0/1747858879900?e=2147483647&v=beta&t=_QzRMGBf8_izUDiS1gfXGPRI2e8KorsEY_mwG9WsLRY" tvg-url="https://www.neftv.com.tr/canliyayin.html" group-title="YEREL",NEF TV
 https://ip44.radyotelekomtv.com:3628/stream/play.m3u8
