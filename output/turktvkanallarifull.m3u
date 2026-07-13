@@ -241,6 +241,8 @@ https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2020/12/mk-haber-izle.png" tvg-url="https://www.mavikaradeniztv.com.tr/" group-title="HABER",MK HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK HABER" tvg-logo="https://www.mavikaradeniztv.com.tr/uploads/logos/logo.jpg" tvg-url="https://www.aksutv.com.tr/izle" tvg-quality="100720" group-title="HABER",MK HABER
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEO HABER" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/neo-haber-buyuk.png?rkt=DfS6Tgv6Hjr93k4" tvg-url="https://neotvcanli.com/" tvg-quality="101080" group-title="HABER",NEO HABER
 https://edge.taksimbilisim.com/neohaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEO HABER" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/neo-haber-buyuk.png?rkt=DfS6Tgv6Hjr93k4" tvg-url="https://www.canlitv.diy/neo-haber" group-title="HABER",NEO HABER
@@ -749,16 +751,12 @@ https://live.presstv.ir/hls/presstv_3_482/index.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AHİ TV" tvg-logo="https://www.ahitv.com.tr/wp-content/uploads/2025/07/cropped-Ahitvlogo.png" tvg-url="https://www.ahitv.com.tr/index.php/ana-sayfa/canli-yayin/" tvg-quality="100000" group-title="YEREL",AHİ TV
 https://yayin1.canlitv.fun/canlitv/ahitv.stream/playlist.m3u8?hash=93b8590d522dfcf2e6d45ba46ad14df4
-#EXTINF:-1 tvg-id="" tvg-name="ALANYA POSTASI" tvg-logo="" tvg-url="https://www.canlitv.diy/alanya-postasi-tv" group-title="YEREL",ALANYA POSTASI
+#EXTINF:-1 tvg-id="" tvg-name="ALANYA POSTASI" tvg-logo="https://www.alanyapostatv.com/wp-content/uploads/2019/03/ap_logo_trnsp_red.png" tvg-url="https://www.canlitv.diy/alanya-postasi-tv" group-title="YEREL",ALANYA POSTASI
 https://api-tv3.yayin.com.tr/postatv/postatv/chunklist_w1397845910.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALTAŞ TV ORDU" tvg-logo="https://tvlogolar.xyz/europa/turkey/altas-tv-tr.png" tvg-url="https://player.taksimbilisim.com/altastv" tvg-quality="100720" group-title="YEREL",ALTAŞ TV ORDU
 https://edge.taksimbilisim.com/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANADOLU NET" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-url="https://www.anadolunettv.com/" tvg-quality="101440" group-title="YEREL",ANADOLU NET
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANADOLU NET" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-url="https://www.anadolunettv.com/" tvg-quality="101080" group-title="YEREL",ANADOLU NET
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANADOLU NET" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-url="https://www.anadolunettv.com/" tvg-quality="101080" group-title="YEREL",ANADOLU NET
-https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARAS TV ERZURUM" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/aras-tv-izle-vipotv-erzurum-turkiye.png" tvg-url="https://vipotv.com/aras-tv/" tvg-quality="100720" group-title="YEREL",ARAS TV ERZURUM
 https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ART WORLD ANTALYA" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_295.png?v=8" tvg-url="https://www.artworld.com.tr/" tvg-quality="101080" group-title="YEREL",ART WORLD ANTALYA
@@ -907,8 +905,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8?md5=3kknqqwJQgq5Id68mo6pmg&expires=1783173050
 #EXTINF:-1 tvg-id="" tvg-name="LUYS TV" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" tvg-url="https://luysmedya.com/" tvg-quality="101080" group-title="YEREL",LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8?md5=rz70Srv8pf_kTBg55HLryg&expires=1783535161
-#EXTINF:-1 tvg-id="" tvg-name="MAVİ KARADENİZ" tvg-logo="" tvg-url="https://www.aksutv.com.tr/izle" tvg-quality="100720" group-title="YEREL",MAVİ KARADENİZ
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV İSKENDERUN" tvg-logo="https://megatviskenderun.com/upload/tema/20171019__5350305438.jpg" tvg-url="https://megatviskenderun.com/" tvg-quality="100720" group-title="YEREL",MEGA TV İSKENDERUN
 https://radyotelekomtv.com/player/m3u8/f31db4d7c61b435a8dd88b1cf2bb10c1/f31db4d7c61b435a8dd88b1cf2bb10c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MERCAN TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_106.png?v=3" tvg-url="https://www.aksutv.com.tr/izle" tvg-quality="100576" group-title="YEREL",MERCAN TV
