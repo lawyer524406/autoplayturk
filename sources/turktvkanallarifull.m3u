@@ -1059,8 +1059,8 @@ https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=93b8590d522
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w973410207.m3u8?hash=93b8590d522dfcf2e6d45ba46ad14df4
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" tvg-url="https://www.yabantv.com/broadcast" group-title="YEREL",YABAN TV
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1433161372.m3u8?hash=93b8590d522dfcf2e6d45ba46ad14df4
-#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/yol-tv-tr.png" tvg-url="https://www.canlitv.diy/yol-tv" group-title="YEREL",YOL TV
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaLdZV3Wi1z4FIEuLJuj5Hrb9k6ji8cIp-M5QWL6be1RcHr85ztpx9RTH&s=10
+#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="https://img.odatv.com/rcman/Cw1280h704q95gc/storage/old/images/2017_01/2017_01_08/yol-tvden-iyi-haber-0801171200_l2.jpg" tvg-url="https://www.canlitv.diy/yol-tv" group-title="YEREL",YOL TV
+https://live.yoltv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/zarok-tv-tr.png" tvg-url="https://zaroktv.com.tr/" tvg-quality="100720" group-title="YEREL",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/zarok-tv-tr.png" tvg-url="https://www.canlitv.diy/zaroktv" group-title="YEREL",ZAROK TV
