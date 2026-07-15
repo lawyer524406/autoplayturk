@@ -985,11 +985,11 @@ https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
 https://live.artidijitalmedya.com/artidijital_sutv/sutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUN RTV MERSİN" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_124.png?v=5" tvg-url="https://www.artidijitalmedya.com/tv/sunrtv/" tvg-quality="100720" group-title="YEREL",SUN RTV MERSİN
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.canlitv.diy/tarim-tv" tvg-quality="101080" group-title="YEREL",TARIM TV
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.tarimtv.gov.tr/" tvg-quality="101080" group-title="YEREL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://tr.canlitv.watch/tarim-tv" tvg-quality="480" group-title="YEREL",TARIM TV
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.tarimtv.gov.tr/" tvg-quality="480" group-title="YEREL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.canlitv.diy/tarim-tv" tvg-quality="240" group-title="YEREL",TARIM TV
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.tarimtv.gov.tr/" tvg-quality="240" group-title="YEREL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-240p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ 6 ANKARA" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_133.png?v=3" tvg-url="https://www.artidijitalmedya.com/tv/tivi6/" tvg-quality="100720" group-title="YEREL",TİVİ 6 ANKARA
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
