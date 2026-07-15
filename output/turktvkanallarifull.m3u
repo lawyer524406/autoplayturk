@@ -985,11 +985,11 @@ https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
 https://live.artidijitalmedya.com/artidijital_sutv/sutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUN RTV MERSİN" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_124.png?v=5" tvg-url="https://www.artidijitalmedya.com/tv/sunrtv/" tvg-quality="100720" group-title="YEREL",SUN RTV MERSİN
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.tarimtv.gov.tr/" tvg-quality="101080" group-title="YEREL",TARIM TV
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.canlitv.diy/tarim-tv" tvg-quality="101080" group-title="YEREL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.tarimtv.gov.tr/" tvg-quality="480" group-title="YEREL",TARIM TV
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://tr.canlitv.watch/tarim-tv" tvg-quality="480" group-title="YEREL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.tarimtv.gov.tr/" tvg-quality="240" group-title="YEREL",TARIM TV
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/tarim-turk-tr.png" tvg-url="https://www.canlitv.diy/tarim-tv" tvg-quality="240" group-title="YEREL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-240p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİ 6 ANKARA" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_133.png?v=3" tvg-url="https://www.artidijitalmedya.com/tv/tivi6/" tvg-quality="100720" group-title="YEREL",TİVİ 6 ANKARA
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -1059,10 +1059,8 @@ https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=93b8590d522
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w973410207.m3u8?hash=93b8590d522dfcf2e6d45ba46ad14df4
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" tvg-url="https://www.yabantv.com/broadcast" group-title="YEREL",YABAN TV
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1433161372.m3u8?hash=93b8590d522dfcf2e6d45ba46ad14df4
-#EXTINF:-1 tvg-id="" tvg-name="YENİ KOCAELİ" tvg-logo="https://kocaelitvcomtr.teimg.com/kocaelitv-com-tr/uploads/2025/09/kocaeli-tv-logo.svg" tvg-url="https://www.kocaelitv.com.tr/canli-yayin" group-title="YEREL",YENİ KOCAELİ
-https://edge2.taksimbilisim.com:443/kocaelitv/bant1/chunks.m3u8?nimblesessionid=408465257
 #EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/yol-tv-tr.png" tvg-url="https://www.canlitv.diy/yol-tv" group-title="YEREL",YOL TV
-https://www.yoltv.com/live.php
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaLdZV3Wi1z4FIEuLJuj5Hrb9k6ji8cIp-M5QWL6be1RcHr85ztpx9RTH&s=10
 #EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/zarok-tv-tr.png" tvg-url="https://zaroktv.com.tr/" tvg-quality="100720" group-title="YEREL",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/zarok-tv-tr.png" tvg-url="https://www.canlitv.diy/zaroktv" group-title="YEREL",ZAROK TV
