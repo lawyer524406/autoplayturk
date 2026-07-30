@@ -129,6 +129,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8?md5=fxf-4xgdLXpvi4jkBNFsIA&expires=1784639507
 #EXTINF:-1 tvg-id="" tvg-name="PATİ TV" tvg-logo="https://i.postimg.cc/5yZtnx60/In-Shot-20260309-113050564.png" tvg-url="http://5.178.103.239:55" group-title="EĞLENCE",PATİ TV
 http://5.178.103.239:55/d/live/out.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="https://tvlogolar.xyz/europa/turkey/a-para-tr.png" tvg-url="https://www.apara.com.tr/canli-yayin" group-title="EKONOMİ",A PARA
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=Ag2DGAY35PLfE-UHnMzHaQ&e=1785460439
+#EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="https://tvlogolar.xyz/europa/turkey/a-para-tr.png" tvg-url="https://www.apara.com.tr/canli-yayin" group-title="EKONOMİ",A PARA
+https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8?st=Ag2DGAY35PLfE-UHnMzHaQ&e=1785460439
 #EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-ht7836.jpg" tvg-url="https://tr.canlitv.watch/bloomberg-ht" tvg-quality="100720" group-title="EKONOMİ",BLOOMBERG HT
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-ht7836.jpg" tvg-url="https://www.bloomberght.com/tv" tvg-quality="100720" group-title="EKONOMİ",BLOOMBERG HT
@@ -155,14 +159,16 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=A_5O0Gc-vEJt7wM-rbyL3Q&e=1785397962
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/a-haber-tr.png" tvg-url="https://www.ahaber.com.tr/video/canli-yayin" tvg-quality="100864" group-title="HABER",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=bPuN8Vk3DtT4ezRIPLSKNw&e=1784599925
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="https://tvlogolar.xyz/europa/turkey/a-news-tr.png" tvg-url="https://www.anews.com.tr/webtv/live-broadcast" group-title="HABER",A NEWS
+https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8?st=AZZH196pdF42UOC37LiXTQ&e=1785460309
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS" tvg-logo="https://tvlogolar.xyz/europa/turkey/a-news-tr.png" tvg-url="https://www.anews.com.tr/webtv/live-broadcast" group-title="HABER",A NEWS
+https://trkvz-live.ercdn.net/anewshd/anewshd_720p.m3u8?st=AZZH196pdF42UOC37LiXTQ&e=1785460309
 #EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/agro-tv-tr.png" tvg-url="https://www.agrotv.com.tr/canli-yayin" group-title="HABER",AGRO TV
 https://agro.fatihdemirsoy.com:8181/memfs/5ff3d33b-25c1-400c-99ab-a60caa4c6873_output_0.m3u8?session=MJJqe7M7XJNmn3WqytFNt9
 #EXTINF:-1 tvg-id="bengütürk.tr" tvg-name="BENGÜTÜRK" tvg-logo="https://tvlogolar.xyz/europa/turkey/bengu-turk-tr.png" tvg-url="https://tv.ensonhaber.com" tvg-quality="100000" group-title="HABER",BENGÜTÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BHA TV" tvg-logo="https://www.bha.net.tr/uploads/logo-1770988054.jpg" tvg-url="https://live.euromediacenter.com" group-title="HABER",BHA TV
 https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0eai33FMDkmbYB9_gtdvoRI5Mm-jouvs45XVxuXv0Hodjg0MOhcpoCs&s=10" tvg-url="https://www.ecanlitvizle.live/" group-title="HABER",DHA
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHA 1" tvg-logo="https://image.dha.com.tr/i/dha/75/0x410/6162699845d2a06a3cdecaa7.jpg" tvg-url="https://603c568fccdf5.streamlock.net" group-title="HABER",DHA 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHA 2" tvg-logo="https://image.dha.com.tr/i/dha/75/0x410/6162699845d2a06a3cdecaa7.jpg" tvg-url="https://603c568fccdf5.streamlock.net" group-title="HABER",DHA 2
@@ -211,8 +217,6 @@ https://tv.kanalb.tr/hls/kanalb/index.m3u8
 https://tv.kanalb.tr/hls/kanalb/index.m3u8?hash=4b55a864e95a8ae1c73e0d6028bced59
 #EXTINF:-1 tvg-id="" tvg-name="KANAL B" tvg-logo="https://yt3.googleusercontent.com/05BuJ6GoBbkPKyay5LL9H1jghCFshicB0Icq1_nwVinmFuYKu7mFhbA8cMR2y0P80tpizdtoRA=s900-c-k-c0x00ffffff-no-rj" tvg-url="https://www.canlitv.diy/kanal-b" tvg-quality="100720" group-title="HABER",KANAL B
 https://tv.kanalb.tr/hls/kanalb/index.m3u8?hash=aa4b9ff5aaf7053d368f931e14a29837
-#EXTINF:-1 tvg-id="" tvg-name="KARASU TV" tvg-logo="https://karasu.tv/wp-content/uploads/2023/09/cropped-haber-karasu.png" tvg-url="https://karasu.tv/index.php/canli-yayin" group-title="HABER",KARASU TV
-https://ip100.radyotelekomtv.com:3579/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LİDER HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/liderhaber.png" tvg-url="http://umperisn.mywire.org" group-title="HABER",LİDER HABER
 http://umperisn.mywire.org/index.php?id=594221&token=DeaTHLesS
 #EXTINF:-1 tvg-id="" tvg-name="MECLİS TV" tvg-logo="https://images.seeklogo.com/logo-png/61/2/tbmm-tv-logo-png_seeklogo-612581.png" tvg-url="https://www.canlitv.diy/tbmm-tv-1" tvg-quality="100000" group-title="HABER",MECLİS TV
@@ -251,7 +255,7 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8?hash=aa4b9ff5aaf7053d368f931e14a29
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELENEWS" tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png" tvg-url="https://telenews.com.tr/canli-tv/" group-title="HABER",TELENEWS
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png?v=6" tvg-url="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png" group-title="HABER",TGRT HABER
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png" tvg-url="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png" group-title="HABER",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="turkhaber.tr" tvg-name="TH TÜRK HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/Logo164x50.png" tvg-url="https://www.canlitv.diy/th-turk-haber" group-title="HABER",TH TÜRK HABER
 https://edge2.taksimbilisim.com/turkhaber/bant1/chunks.m3u8
@@ -971,6 +975,8 @@ https://edge2.taksimbilisim.com/kanalurfa/bant1/chunks.m3u8?hash=4b55a864e95a8ae
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-id="kanalv.tr" tvg-name="KANAL V ANTALYA" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_88.png?v=3" tvg-url="https://www.kanalv.com.tr/kanal-v" group-title="YEREL",KANAL V ANTALYA
 http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KARASU TV" tvg-logo="https://karasu.tv/wp-content/uploads/2023/09/cropped-haber-karasu.png" tvg-url="https://karasu.tv/index.php/canli-yayin" group-title="YEREL",KARASU TV
+https://ip100.radyotelekomtv.com:3579/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARDELEN TV ERZURUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkuogBIqnw6gPVlavejUpBj8T90lUqYn1mX31mdo49w&s" tvg-url="https://player.socialsmart.tv/kardelentv/" tvg-quality="100720" group-title="YEREL",KARDELEN TV ERZURUM
 https://edge.taksimbilisim.com/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARDEŞ TV" tvg-logo="https://paristekiturkler.com/wp-content/uploads/Kardes-TV-rond-e1679694823771.png" tvg-url="https://paristekiturkler.com/item/kardes-tv/" group-title="YEREL",KARDEŞ TV
