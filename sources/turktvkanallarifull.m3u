@@ -951,7 +951,7 @@ https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d_output_0.m3u8?session=iTHq3yc98mAAo7CRJvyP6T
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 42" tvg-logo="https://www.tv42haber.com/assets/logo.png" tvg-url="https://www.tv42haber.com/tv42-canli" group-title="YEREL",KANAL 42
 https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d_output_0.m3u8?session=NcUZFJ5QHzLDjgJzYJjUkb
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 53" tvg-logo="https://i.postimg.cc/0503bF0Y/In-Shot-20260104-105342090.png" tvg-url="https://kanal53.ozelip.com:3448" group-title="YEREL",KANAL 53
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 53" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvV8ZQxs_HG-D2sm0gaiuIWomm3Ewad9KEgauPOuXq4BLrC6TkSeqU664&s=10" tvg-url="https://kanal53.ozelip.com:3448" group-title="YEREL",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 58 SİVAS" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_76.png?v=5" tvg-url="https://www.artidijitalmedya.com/tv/kanal58/" tvg-quality="100720" group-title="YEREL",KANAL 58 SİVAS
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
