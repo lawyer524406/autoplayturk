@@ -1019,9 +1019,9 @@ https://radyotelekomtv.com/player/m3u8/f31db4d7c61b435a8dd88b1cf2bb10c1/f31db4d7
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MERKEZ TV" tvg-logo="https://yt3.googleusercontent.com/xmYomVmma0ahrpiW6VUMus2SURhhA2oFwQUXnaAe63Eee0Z7-c7pEbVRxIjx1LMJZwKVFeLI2w=s900-c-k-c0x00ffffff-no-rj" tvg-url="https://tr.canlitv.watch/merkez-tv" group-title="YEREL",MERKEZ TV
 https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUĞLA TÜRK TV" tvg-logo="https://www.mturktv.com/wp-content/uploads/2025/04/MTurkTV.png" tvg-url="https://edge1.socialsmart.tv" tvg-quality="101080" group-title="YEREL",MUĞLA TÜRK TV
+#EXTINF:-1 tvg-id="" tvg-name="MUĞLA TÜRK TV" tvg-logo="https://tr.canlitv.watch/channels/mturk-tv.webp" tvg-url="https://edge1.socialsmart.tv" tvg-quality="101080" group-title="YEREL",MUĞLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUĞLA TÜRK TV" tvg-logo="https://www.mturktv.com/wp-content/uploads/2025/04/MTurkTV.png" tvg-url="https://www.mturktv.com/canli/" group-title="YEREL",MUĞLA TÜRK TV
+#EXTINF:-1 tvg-id="" tvg-name="MUĞLA TÜRK TV" tvg-logo="https://tr.canlitv.watch/channels/mturk-tv.webp" tvg-url="https://www.mturktv.com/canli/" group-title="YEREL",MUĞLA TÜRK TV
 https://www.mturktv.net/wp-content/uploads/2025/04/MTurkTV.png
 #EXTINF:-1 tvg-id="" tvg-name="NEF TV" tvg-logo="https://media.licdn.com/dms/image/v2/D4D16AQFIbyjCm5N3zQ/profile-displaybackgroundimage-shrink_200_800/B4DZb0gepZHEAU-/0/1747858879900?e=2147483647&v=beta&t=_QzRMGBf8_izUDiS1gfXGPRI2e8KorsEY_mwG9WsLRY" tvg-url="https://www.neftv.com.tr/canliyayin.html" group-title="YEREL",NEF TV
 https://ip44.radyotelekomtv.com:3628/stream/play.m3u8
@@ -1097,7 +1097,7 @@ https://edge.taksimbilisim.com/tv52/bant1/playlist.m3u8
 https://edge2.taksimbilisim.com/tv52/bant1/chunks.m3u8?hash=4b55a864e95a8ae1c73e0d6028bced59
 #EXTINF:-1 tvg-id="" tvg-name="TV 52 ORDU" tvg-logo="https://www.tv52.com.tr/data/genel/logo.png" tvg-url="https://www.canlitv.diy/tv-52" group-title="YEREL",TV 52 ORDU
 https://edge2.taksimbilisim.com/tv52/bant1/chunks.m3u8?hash=aa4b9ff5aaf7053d368f931e14a29837
-#EXTINF:-1 tvg-id="" tvg-name="TV MOR" tvg-logo="" tvg-url="https://www.tvmor.com/canli-yayin/" tvg-quality="100720" group-title="YEREL",TV MOR
+#EXTINF:-1 tvg-id="" tvg-name="TV MOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKeLbfijfvdD5rw4tL4dreQ03PvRtJlHBpoH1y5OCeuU1cPrLUvtoY6Sh&s=10" tvg-url="https://www.tvmor.com/canli-yayin/" tvg-quality="100720" group-title="YEREL",TV MOR
 https://live.euromediacenter.com/tvmor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URFANATİK" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_145.png?v=4" tvg-url="https://www.artidijitalmedya.com/tv/urfanakittv/" tvg-quality="101080" group-title="YEREL",URFANATİK
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
