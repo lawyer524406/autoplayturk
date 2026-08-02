@@ -659,7 +659,7 @@ https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live.m3u8?st=0iaMKRixSu
 https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=0iaMKRixSuJv_WhIatAsmw&e=1785774625
 #EXTINF:-1 tvg-id="" tvg-name="EURO STAR" tvg-logo="https://tvlogolar.xyz/europa/turkey/euro-star-tr.png" tvg-url="https://www.eurostartv.com.tr/canli-izle" group-title="ULUSAL",EURO STAR
 https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_480p900000kbps/index.m3u8?st=0iaMKRixSuJv_WhIatAsmw&e=1785774625
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 1" tvg-logo="https://www.kanal1.com.tr/assets/images/logo/kanal1.svg" tvg-url="https://www.kanal1.com.tr/" group-title="ULUSAL",KANAL 1
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Kanal_1_logosu.png" tvg-url="https://www.kanal1.com.tr/" group-title="ULUSAL",KANAL 1
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/8472.ts
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" tvg-url="https://tr.canlitv.watch/kanal-7" tvg-quality="101080" group-title="ULUSAL",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -707,8 +707,6 @@ https://dygvideo.dygdigital.com/live/hls/startv4puhu/live.m3u8
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&hash=4b55a864e95a8ae1c73e0d6028bced59
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle-thumbnail.png" tvg-url="https://www.canlitv.diy/star-tv-canli" tvg-quality="100720" group-title="ULUSAL",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
-#EXTINF:-1 tvg-id="" tvg-name="TEVE 2" tvg-logo="https://i.postimg.cc/SxrKDbFQ/Teve2-logo.png" group-title="ULUSAL",TEVE 2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT TÜRK" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17776814_0-0-267-174.png" tvg-url="https://www.tabii.com/tr/watch/live/trtturk?trackId=150043" tvg-quality="101440" group-title="ULUSAL",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT TÜRK" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17776814_0-0-267-174.png" tvg-url="https://www.trtturk.com.tr/canli-izle" group-title="ULUSAL",TRT TÜRK
