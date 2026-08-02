@@ -617,9 +617,9 @@ https://edge2.taksimbilisim.com/naturaltv/bant1/chunks.m3u8?hash=4b55a864e95a8ae
 https://edge2.taksimbilisim.com/naturaltv/bant1/chunks.m3u8?hash=aa4b9ff5aaf7053d368f931e14a29837
 #EXTINF:-1 tvg-id="" tvg-name="AKSU TV MARAŞ" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_7.png?v=11" tvg-url="https://www.artidijitalmedya.com/tv/aksutv/" tvg-quality="100720" group-title="ULUSAL",AKSU TV MARAŞ
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/PxH8NQjN/Atv-logo-2010-svg.png" tvg-quality="101080" group-title="ULUSAL",ATV
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://tvlogolar.xyz/europa/turkey/atv-tr.png" tvg-quality="101080" group-title="ULUSAL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/PxH8NQjN/Atv-logo-2010-svg.png" tvg-quality="1080" group-title="ULUSAL",ATV
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV" tvg-logo="https://tvlogolar.xyz/europa/turkey/atv-tr.png" tvg-quality="1080" group-title="ULUSAL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV" tvg-logo="https://beyaztv.com.tr/images/logo.png" tvg-url="https://tr.canlitv.watch/beyaz-tv" tvg-quality="101080" group-title="ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
