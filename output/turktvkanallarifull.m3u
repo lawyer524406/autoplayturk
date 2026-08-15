@@ -279,11 +279,11 @@ http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6848/index.m3u8
 https://still-breeze-e6bf.lawyer524406.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3029254675256aa43dc772
 #EXTINF:-1 tvg-id="" tvg-name="NİCKELODEON" tvg-logo="https://tvlogolar.xyz/europa/turkey/nickelodeon.png" tvg-url="https://still-breeze-e6bf.lawyer524406.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30925623016e4c1bb5c343" group-title="ÇOCUK",NİCKELODEON
 https://still-breeze-e6bf.lawyer524406.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30925623016e4c1bb5c343
-#EXTINF:-1 tvg-id="" tvg-name="CİNE7 MAXİ" tvg-logo="https://i.postimg.cc/MKS401ft/15358-removebg-preview.png" group-title="ÇOCUK KANALLARI",CİNE7 MAXİ
+#EXTINF:-1 tvg-id="" tvg-name="CİNE7 MAXİ" tvg-logo="https://i.postimg.cc/MKS401ft/15358-removebg-preview.png" group-title="ÇOCUK",CİNE7 MAXİ
 http://162.212.179.32/akamaissh101/ssh101/teber_maxi_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POP TV" tvg-logo="https://i.imgur.com/fGUlCY3.png" tvg-url="https://narrative-popkids-rakuten.amagi.tv" group-title="ÇOCUK KANALLARI",POP TV
+#EXTINF:-1 tvg-id="" tvg-name="POP TV" tvg-logo="https://i.imgur.com/fGUlCY3.png" tvg-url="https://narrative-popkids-rakuten.amagi.tv" group-title="ÇOCUK",POP TV
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİNY POP" tvg-logo="https://i.imgur.com/zCTf71x.png" tvg-url="https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv" group-title="ÇOCUK KANALLARI",TİNY POP
+#EXTINF:-1 tvg-id="" tvg-name="TİNY POP" tvg-logo="https://i.imgur.com/zCTf71x.png" tvg-url="https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv" group-title="ÇOCUK",TİNY POP
 https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ZAHRA TV" tvg-logo="https://yt3.googleusercontent.com/W-QlWAKSOBBWbW0QhQduRZ7NAuaF2UyE3qVxbFb7OeadGp72uRQmWKtY8rmJYLELOlEFTARAB6k=s160-c-k-c0x00ffffff-no-rj" tvg-url="https://www.coolstreaming.us/channelnew/tr/62351/AlZahraTV.html" group-title="DİNİ",AL ZAHRA TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -942,7 +942,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786830309/ei/
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786830309/ei/hYmAauy8DYWGi9oP0vCU2As/ip/2a00:1d34:c9b5:8b01:78b6:4a14:70ab:2b5/id/r7VNuS6I-PY.1/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D133/rqh/1/hls_chunk_host/rr8---sn-u0g3uxax3-n14e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhPsndt7oj8CofIpyrGkXrG4t-4g5v3M5OXVgrwFd4ZRdYBQINJEoSzQzWszOcXMV2qX64a5ip6X/spc/KBGBcgjq87JMJAdqiUNp-lT5T9dF4qrtSXX7JOWWYEJd8w0MAw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2065000/met/1786808710,/mh/QF/mm/44/mn/sn-u0g3uxax3-n14e/ms/lva/mv/m/mvi/8/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946837,52089683/mt/1786808424/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAOR-gZ7PgwO3FOrlNWxeog5ZjplznKUQ6Olsd-IMz2DqAiEA7jEykiU366EzjRBOLfRjMncWoeqtsdnLOwOHqhwLJnY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALeT_yIRwfHwEyoMwq5gQH8rV2xK4HlwVxd4pfMXRweZAiBpFSPv5YAqy2aNNhbBZJvBPlHUfTBNc5X6H0V1F1UUcQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD TÜRK" tvg-logo="https://worldturk.com.tr/wp-content/uploads/2025/01/wt-yeni-logov3.png" tvg-url="https://worldturk.com.tr/world-turk-tv-canli-yayin-izle/" group-title="HABER",WORLD TÜRK
 https://worldturktv.radyotelekom.com.tr:3971/live/worldturktvstreamlive.m3u8
-#EXTINF:-1 tvg-id="ekotürk.tr" tvg-name="EKOTÜRK" tvg-logo="https://www.ekoturk.com/wp-content/uploads/2021/06/ekoturk-logo-400.png" tvg-url="http://88.99.165.164:6878" group-title="HABER KANALLARI",EKOTÜRK
+#EXTINF:-1 tvg-id="ekotürk.tr" tvg-name="EKOTÜRK" tvg-logo="https://www.ekoturk.com/wp-content/uploads/2021/06/ekoturk-logo-400.png" tvg-url="http://88.99.165.164:6878" group-title="HABER",EKOTÜRK
 http://88.99.165.164:6878/ace/getstream?id=ab3c1dd7235dae249588d6b7b7a408b3d7d381b5&pid=6233
 #EXTINF:-1 tvg-id="kibrisadatv.tr" tvg-name="ADA TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/ada-tv-tr.png" tvg-url="https://www.adatv.tv/" group-title="KIBRIS",ADA TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=e61841fd215b5da1b00f9250d9149369
@@ -999,9 +999,9 @@ https://play.kibristv.com/stream/hls/stream.m3u8?hash=4b55a864e95a8ae1c73e0d6028
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-id="kibristv.tr" tvg-name="KIBRIS TV" tvg-logo="https://kibristv.com/foto/ktv.png" tvg-url="https://www.canlitv.diy/kibris-tv" group-title="KIBRIS",KIBRIS TV
 https://play.kibristv.com/stream/hls/stream.m3u8?hash=aa4b9ff5aaf7053d368f931e14a29837
-#EXTINF:-1 tvg-id="" tvg-name="KANAL SİM" tvg-logo="https://i.postimg.cc/NFxXdfNv/In-Shot-20251110-120603799.png" tvg-url="https://edge.kuzeykibrissmart.tv" group-title="KIBRIS KANALLARI",KANAL SİM
+#EXTINF:-1 tvg-id="" tvg-name="KANAL SİM" tvg-logo="https://i.postimg.cc/NFxXdfNv/In-Shot-20251110-120603799.png" tvg-url="https://edge.kuzeykibrissmart.tv" group-title="KIBRIS",KANAL SİM
 https://edge.kuzeykibrissmart.tv/simtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 2020" tvg-logo="https://i.postimg.cc/dtBqKvxF/38361849-ico.png" tvg-url="https://edge.kuzeykibrissmart.tv" group-title="KIBRIS KANALLARI",TV 2020
+#EXTINF:-1 tvg-id="" tvg-name="TV 2020" tvg-logo="https://i.postimg.cc/dtBqKvxF/38361849-ico.png" tvg-url="https://edge.kuzeykibrissmart.tv" group-title="KIBRIS",TV 2020
 https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ERZURUM BELEDİYESİ" tvg-logo="https://i.postimg.cc/JnYnBV0T/In-Shot-20260119-143729529.png" tvg-url="https://famelack.com/tv/tr/HhjGNBJx3fTyee" group-title="KURUMSAL",ERZURUM BELEDİYESİ
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
