@@ -1265,12 +1265,6 @@ http://yayin.santraltr.com/hls/toppop.m3u8
 https://vrttv.ozelip.com:3278/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YANSIMA MÜZİK TV" tvg-logo="https://i.postimg.cc/nLYLWpNZ/38683545-ico.png" group-title="MÜZİK",YANSIMA MÜZİK TV
 http://162.212.179.32/akamaissh101/ssh101/ymmusictv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABA RADYO" tvg-logo="https://i.postimg.cc/rmKQSsHZ/images.png" tvg-url="https://babaradyo.turkhosted.com" group-title="RADYO",BABA RADYO
-https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRAL POP RADYO" tvg-logo="https://r.resimlink.com/3mXOfILsRv.png" group-title="RADYO",KRAL POP RADYO
-https://dygedge.radyotvonline.net/kralpop/playlist.m3u8?listeningSessionID=689a71670b9b8fe5_10447267_HwbwtuT7__0000001I9eN&downloadSessionID=0
-#EXTINF:-1 tvg-id="" tvg-name="RADYO VİVA" tvg-logo="https://r.resimlink.com/Y6aWHoUwgQ.png" tvg-url="http://46.20.3.231:80" group-title="RADYO",RADYO VİVA
-http://46.20.3.231:80/;
 #EXTINF:-1 tvg-id="" tvg-name="AKKON TV" tvg-logo="https://i.postimg.cc/rwM3jDB6/akkaontvust.png" tvg-url="https://ip.akkontv.com:3205" group-title="SİNEMA",AKKON TV
 https://ip.akkontv.com:3205/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANADOLU DOST TV" tvg-logo="" tvg-url="https://www.canlitv.diy/anadolu-dost-tv" group-title="SİNEMA",ANADOLU DOST TV
