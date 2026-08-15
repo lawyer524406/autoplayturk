@@ -1363,15 +1363,15 @@ http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
 http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZALİM İSTANBUL" tvg-logo="https://i.postimg.cc/13GwQ7tv/In-Shot-20251110-163703864.png" group-title="SİNEMA",ZALİM İSTANBUL
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CİNE7 STAR" tvg-logo="https://i.postimg.cc/rwbNjLYM/15370-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",CİNE7 STAR
+#EXTINF:-1 tvg-id="" tvg-name="CİNE7 STAR" tvg-logo="https://i.postimg.cc/rwbNjLYM/15370-removebg-preview.png" group-title="SİNEMA",CİNE7 STAR
 http://162.212.179.32/akamaissh101/ssh101/star1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CİNE7 TÜRK" tvg-logo="https://i.postimg.cc/jjFmy9yD/15354-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",CİNE7 TÜRK
+#EXTINF:-1 tvg-id="" tvg-name="CİNE7 TÜRK" tvg-logo="https://i.postimg.cc/jjFmy9yD/15354-removebg-preview.png" group-title="SİNEMA",CİNE7 TÜRK
 http://162.212.179.32/akamaissh101/ssh101/cine5_turk/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CİNE7 +PLUS" tvg-logo="https://i.postimg.cc/rsLhJLmh/15362-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",CİNE7 +PLUS
+#EXTINF:-1 tvg-id="" tvg-name="CİNE7 +PLUS" tvg-logo="https://i.postimg.cc/rsLhJLmh/15362-removebg-preview.png" group-title="SİNEMA",CİNE7 +PLUS
 http://162.212.179.32/akamaissh101/ssh101/cine5+/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EM TV" tvg-logo="https://i.postimg.cc/Hs0yycYP/38956066-ico.png" group-title="SİNEMA/DİZİ KANALLARI",EM TV
+#EXTINF:-1 tvg-id="" tvg-name="EM TV" tvg-logo="https://i.postimg.cc/Hs0yycYP/38956066-ico.png" group-title="SİNEMA",EM TV
 http://162.212.179.32/akamaissh101/ssh101/egemenlik_milletin_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA ON GÜLDÜR GÜLDÜR" tvg-logo="https://i.postimg.cc/sgSMFdD6/15350-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",MEGA ON GÜLDÜR GÜLDÜR
+#EXTINF:-1 tvg-id="" tvg-name="MEGA ON GÜLDÜR GÜLDÜR" tvg-logo="https://i.postimg.cc/sgSMFdD6/15350-removebg-preview.png" group-title="SİNEMA",MEGA ON GÜLDÜR GÜLDÜR
 http://162.212.179.32/akamaissh101/ssh101/mega10/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABİİ TV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/45155_0-0-1919-1080.jpeg" tvg-url="https://www.tabii.com/watch/live/trt2?trackId=150007" group-title="TRT",TABİİ TV
 https://Pz4qT7nW1mR9sH2vL5xK8jG3y.medya.trt.com.tr/master.m3u8
@@ -1633,8 +1633,6 @@ http://umperisn.mywire.org/index.php?id=2020&token=DeaTHLesS
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TÜRKMEN SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814" tvg-url="https://www.canlitv.diy/turkmen-sport-tv" group-title="TÜRK SPOR",TÜRKMEN SPORT
 https://canlitv.diy/player/html5video.php?url=https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D romania B-Live" tvg-logo="https://i.postimg.cc/sXTpJLrs/In-Shot-20260127-231339276.png" tvg-url="https://stream1.kanald.ro" group-title="TÜRKİY  - 1 B-Live",KANAL D romania B-Live
-https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360" tvg-logo="https://r.resimlink.com/djaT7S.webp" tvg-url="http://176.65.153.7:6002" group-title="ULUSAL",360
 http://176.65.153.7:6002/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/360-tr.png" group-title="ULUSAL",360 TV
