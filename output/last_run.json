@@ -1,115 +1,190 @@
 {
-  "timestamp": "2026-11-27 11:53:43 UTC",
-  "mode": "distribution + manifest + conditional EXTVLCOPT",
-  "elapsed_sec": 0.51,
+  "timestamp": "2026-11-27 12:06:25 UTC",
+  "mode": "distribution + manifest + conditional EXTVLCOPT + oEmbed check",
+  "elapsed_sec": 84.24,
+  "oembed_check": {
+    "enabled": true,
+    "checked_this_run": 8000,
+    "unique_ids": 18662,
+    "remove_embed_disabled": true
+  },
+  "orphan_outputs": [
+    "dünyanewstv.m3u",
+    "turkradyolari.m3u",
+    "vavoo.m3u"
+  ],
   "files": [
     {
       "file": "NetSinema.m3u",
       "total": 6840,
+      "source_total": 6840,
       "youtube": 0,
-      "other": 6840
+      "other": 6840,
+      "removed": {}
     },
     {
       "file": "dunyabelgeseltv.m3u",
       "total": 132,
+      "source_total": 132,
       "youtube": 0,
-      "other": 132
+      "other": 132,
+      "removed": {}
     },
     {
       "file": "dunyamusictvkanallari.m3u",
       "total": 581,
+      "source_total": 581,
       "youtube": 0,
-      "other": 581
+      "other": 581,
+      "removed": {}
     },
     {
       "file": "dünyatvkanallari.m3u",
       "total": 7112,
+      "source_total": 7112,
       "youtube": 0,
-      "other": 7112
+      "other": 7112,
+      "removed": {}
     },
     {
       "file": "kovboy.m3u",
-      "total": 230,
+      "total": 136,
+      "source_total": 230,
       "youtube": 230,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "401": 88,
+        "403": 6
+      }
     },
     {
       "file": "sinema.m3u",
       "total": 3608,
+      "source_total": 3608,
       "youtube": 0,
-      "other": 3608
+      "other": 3608,
+      "removed": {}
     },
     {
       "file": "turktvkanallarifull.m3u",
       "total": 1868,
-      "youtube": 0,
-      "other": 1868
+      "source_total": 1868,
+      "youtube": 46,
+      "other": 1822,
+      "removed": {}
     },
     {
       "file": "turkvedunyaradyolari.m3u",
       "total": 593,
+      "source_total": 593,
       "youtube": 0,
-      "other": 593
+      "other": 593,
+      "removed": {}
     },
     {
       "file": "yabanci_sinematvkanallari.m3u",
       "total": 235,
+      "source_total": 235,
       "youtube": 0,
-      "other": 235
+      "other": 235,
+      "removed": {}
     },
     {
       "file": "yabanci_yemektvkanallari.m3u",
       "total": 19,
+      "source_total": 19,
       "youtube": 0,
-      "other": 19
+      "other": 19,
+      "removed": {}
     },
     {
       "file": "yabancikarisik.m3u",
-      "total": 1893,
+      "total": 1696,
+      "source_total": 1893,
       "youtube": 1893,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "401": 139,
+        "404": 25,
+        "403": 33
+      }
     },
     {
       "file": "yabancitvsporkanallari.m3u",
       "total": 173,
+      "source_total": 173,
       "youtube": 0,
-      "other": 173
+      "other": 173,
+      "removed": {}
     },
     {
       "file": "yerlikarisik.m3u",
-      "total": 10892,
+      "total": 7058,
+      "source_total": 10892,
       "youtube": 10892,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "403": 378,
+        "401": 3385,
+        "404": 71
+      }
     },
     {
       "file": "yerlikomedi.m3u",
-      "total": 2292,
+      "total": 1502,
+      "source_total": 2292,
       "youtube": 2292,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "401": 785,
+        "404": 2,
+        "403": 3
+      }
     },
     {
       "file": "yt_kanal.m3u",
-      "total": 1775,
+      "total": 1461,
+      "source_total": 1775,
       "youtube": 1775,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "403": 32,
+        "404": 16,
+        "401": 266
+      }
     },
     {
       "file": "yt_kanal1.m3u",
-      "total": 732,
+      "total": 708,
+      "source_total": 732,
       "youtube": 732,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "403": 22,
+        "404": 2
+      }
     },
     {
       "file": "yt_kanal2.m3u",
-      "total": 3054,
+      "total": 3051,
+      "source_total": 3054,
       "youtube": 3054,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "403": 2,
+        "404": 1
+      }
     },
     {
       "file": "yt_kanal3.m3u",
-      "total": 997,
+      "total": 931,
+      "source_total": 997,
       "youtube": 997,
-      "other": 0
+      "other": 0,
+      "removed": {
+        "404": 45,
+        "403": 21
+      }
     }
   ]
 }
