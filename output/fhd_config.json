@@ -5,7 +5,7 @@
     {
       "id": "fhd",
       "name": "🎬 FullHD Film",
-      "domain": "https://www.fullhdfilmizlesene.mx",
+      "domain": "https://www.fullhdfilmizlesene.now/",
       "searchPath": "/arama/",
       "hostKw": "fullhdfilmizlesene",
       "playerSel": ".player-alan,.izle-content",
@@ -158,7 +158,7 @@
     {
       "id": "hdfilmizle",
       "name": "🎬 HD Film İzle",
-      "domain": "https://www.hdfilmizle.vip",
+      "domain": "https://www.hdfilmizle.live/",
       "searchPath": "/?s=",
       "hostKw": "hdfilmizle",
       "playerSel": ".vp",
