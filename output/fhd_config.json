@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "note": "Domain degisince sadece \"domain\" alanini guncelle. Uygulama 12 saatte bir okur.",
+  "sites": [
+    {
+      "id": "fhd",
+      "name": "🎬 FullHD Film",
+      "domain": "https://www.fullhdfilmizlesene.mx",
+      "searchPath": "/arama/",
+      "hostKw": "fullhdfilmizlesene",
+      "playerSel": ".player-alan,.izle-content",
+      "playSel": "#play-video,.video-play-button",
+      "headerSel": "header,.hdr-ust,.single-bas,nav",
+      "isolatePlayer": true,
+      "cats": [
+        [
+          "🆕 Yeni",
+          "/yeni-filmler"
+        ],
+        [
+          "🔥 Çok İzlenen",
+          "/en-cok-izlenen-filmler"
+        ],
+        [
+          "📈 Trend",
+          "/trend-filmler"
+        ],
+        [
+          "⭐ IMDB",
+          "/filmizle/imdb-puani-yuksek-filmler"
+        ],
+        [
+          "🇹🇷 Yerli",
+          "/filmizle/yerli-filmler"
+        ],
+        [
+          "🎙 Dublaj",
+          "/filmizle/turkce-dublaj-filmler-1"
+        ],
+        [
+          "💬 Altyazılı",
+          "/filmizle/turkce-altyazili-filmler-1"
+        ],
+        [
+          "🎭 Aksiyon",
+          "/filmizle/aksiyon-filmleri"
+        ],
+        [
+          "😂 Komedi",
+          "/filmizle/komedi-filmleri"
+        ],
+        [
+          "👻 Korku",
+          "/filmizle/korku-filmleri"
+        ],
+        [
+          "🚀 Bilim Kurgu",
+          "/filmizle/bilim-kurgu-filmleri"
+        ],
+        [
+          "🎬 Dram",
+          "/filmizle/dram-filmler-izle"
+        ],
+        [
+          "😱 Gerilim",
+          "/filmizle/gerilim-filmleri"
+        ],
+        [
+          "🗺 Macera",
+          "/filmizle/macera-filmleri"
+        ],
+        [
+          "❤ Romantik",
+          "/filmizle/romantik-filmler"
+        ],
+        [
+          "🧙 Fantastik",
+          "/filmizle/fantastik-filmler"
+        ],
+        [
+          "🔍 Gizem",
+          "/filmizle/gizem-filmleri"
+        ],
+        [
+          "🔫 Suç",
+          "/filmizle/suc-filmleri"
+        ],
+        [
+          "👮 Polisiye",
+          "/filmizle/polisiye-filmleri"
+        ],
+        [
+          "🧠 Psikolojik",
+          "/filmizle/psikolojik-filmler"
+        ],
+        [
+          "⚔ Savaş",
+          "/filmizle/savas-filmleri"
+        ],
+        [
+          "🏛 Tarih",
+          "/filmizle/tarih-filmleri"
+        ],
+        [
+          "🤠 Western",
+          "/filmizle/western-filmler"
+        ],
+        [
+          "🎵 Müzikal",
+          "/filmizle/muzikal-filmler"
+        ],
+        [
+          "🎨 Animasyon",
+          "/filmizle/animasyon-filmleri"
+        ],
+        [
+          "👶 Aile",
+          "/filmizle/aile-filmleri"
+        ],
+        [
+          "🌍 Yabancı",
+          "/filmizle/yabanci-filmler"
+        ],
+        [
+          "🇮🇳 Hint",
+          "/filmizle/hint-filmleri"
+        ],
+        [
+          "2026",
+          "/yil/2026-filmleri-izle"
+        ],
+        [
+          "2025",
+          "/yil/2025-filmler-izle"
+        ],
+        [
+          "2024",
+          "/yil/2024-filmleri-izle-1"
+        ],
+        [
+          "2023",
+          "/yil/2023-filmleri-izle"
+        ],
+        [
+          "2022",
+          "/yil/2022-filmleri-izle"
+        ],
+        [
+          "2021",
+          "/yil/2021-filmleri-izle"
+        ],
+        [
+          "2020",
+          "/yil/2020-filmleri-izle"
+        ]
+      ]
+    },
+    {
+      "id": "hdfilmizle",
+      "name": "🎬 HD Film İzle",
+      "domain": "https://www.hdfilmizle.vip",
+      "searchPath": "/?s=",
+      "hostKw": "hdfilmizle",
+      "playerSel": ".vp",
+      "playSel": ".play-that-video",
+      "headerSel": "header,nav,.navbar,footer",
+      "isolatePlayer": true,
+      "cats": [
+        [
+          "🆕 Yeni",
+          ""
+        ],
+        [
+          "🔥 Çok İzlenen",
+          "/en-cok-izlenen-filmler-hd-2/"
+        ],
+        [
+          "⭐ IMDB",
+          "/imdb-puani-yuksek-500/"
+        ],
+        [
+          "📺 Yabancı Dizi",
+          "/yabanci-dizi-izle-3/"
+        ],
+        [
+          "🎙 Dublaj",
+          "/turkce-dublaj-filmler-hd-2/"
+        ],
+        [
+          "💬 Altyazılı",
+          "/turkce-altyazili-filmler-izle-3/"
+        ],
+        [
+          "🎭 Aksiyon",
+          "/tur/aksiyon-2/"
+        ],
+        [
+          "😂 Komedi",
+          "/tur/komedi-1/"
+        ],
+        [
+          "👻 Korku",
+          "/tur/korku-1/"
+        ],
+        [
+          "🚀 Bilim Kurgu",
+          "/tur/bilim-kurgu-1/"
+        ],
+        [
+          "🎬 Dram",
+          "/tur/dram-1/"
+        ],
+        [
+          "😱 Gerilim",
+          "/tur/gerilim-1/"
+        ],
+        [
+          "🗺 Macera",
+          "/tur/macera-1/"
+        ],
+        [
+          "❤ Romantik",
+          "/tur/romantik-1/"
+        ],
+        [
+          "🧙 Fantastik",
+          "/tur/fantastik-1/"
+        ],
+        [
+          "🔍 Gizem",
+          "/tur/gizem-1/"
+        ],
+        [
+          "🔫 Suç",
+          "/tur/suc-1/"
+        ],
+        [
+          "⚔ Savaş",
+          "/tur/savas-1/"
+        ],
+        [
+          "🏛 Tarih",
+          "/tur/tarih-1/"
+        ],
+        [
+          "🤠 Vahşi Batı",
+          "/tur/vahsi-bati/"
+        ],
+        [
+          "🎵 Müzik",
+          "/tur/muzik/"
+        ],
+        [
+          "🎨 Animasyon",
+          "/tur/animasyon-1/"
+        ],
+        [
+          "👶 Aile",
+          "/tur/aile-1/"
+        ],
+        [
+          "📽 Belgesel",
+          "/tur/belgesel/"
+        ],
+        [
+          "📼 TV Filmi",
+          "/tur/tv-film-1/"
+        ],
+        [
+          "🇹🇷 Yerli",
+          "/tur/yerli-film-izle-1/"
+        ],
+        [
+          "2026",
+          "/yil/2026-film-izle/"
+        ],
+        [
+          "2025",
+          "/yil/2025-filmleri-izle/"
+        ],
+        [
+          "2024",
+          "/yil/2024-filmleri-izle/"
+        ],
+        [
+          "2023",
+          "/yil/2023-filmleri-hd-2/"
+        ],
+        [
+          "2022",
+          "/yil/2022-filmleri-hd-2/"
+        ]
+      ]
+    }
+  ]
+}

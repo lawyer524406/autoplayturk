@@ -50,12 +50,14 @@ jobs:
         env:
           PYTHONUNBUFFERED: "1"
           FORCE_FULL_RECHECK: ${{ github.event.inputs.force_full || 'false' }}
+          # Gomulu oynatmasi kapali (oEmbed 401) videolar da silinsin mi?
+          REMOVE_EMBED_DISABLED: "true"
 
       - name: Commit & push if changed
         run: |
           git config user.name "AutoPlay Resolver Bot"
           git config user.email "bot@autoplay.local"
-          git add output/
+          git add output/ cache/
           if git diff --cached --quiet; then
             echo "Hicbir degisiklik yok — commit atlandi."
           else
