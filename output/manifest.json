@@ -1,7 +1,7 @@
 {
   "name": "AutoPlayTurk Resolver",
   "version": 1,
-  "timestamp": "2026-11-27 12:06:25 UTC",
+  "timestamp": "2026-11-27 20:57:32 UTC",
   "lists": [
     {
       "name": "NetSinema",
@@ -36,7 +36,7 @@
       "file": "kovboy.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/kovboy.m3u",
-      "totalChannels": 136
+      "totalChannels": 40
     },
     {
       "name": "sinema",
@@ -78,7 +78,7 @@
       "file": "yabancikarisik.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yabancikarisik.m3u",
-      "totalChannels": 1696
+      "totalChannels": 1484
     },
     {
       "name": "yabancitvsporkanallari",
@@ -92,42 +92,42 @@
       "file": "yerlikarisik.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yerlikarisik.m3u",
-      "totalChannels": 7058
+      "totalChannels": 3136
     },
     {
       "name": "yerlikomedi",
       "file": "yerlikomedi.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yerlikomedi.m3u",
-      "totalChannels": 1502
+      "totalChannels": 706
     },
     {
       "name": "yt_kanal",
       "file": "yt_kanal.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yt_kanal.m3u",
-      "totalChannels": 1461
+      "totalChannels": 1137
     },
     {
       "name": "yt_kanal1",
       "file": "yt_kanal1.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yt_kanal1.m3u",
-      "totalChannels": 708
+      "totalChannels": 687
     },
     {
       "name": "yt_kanal2",
       "file": "yt_kanal2.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yt_kanal2.m3u",
-      "totalChannels": 3051
+      "totalChannels": 3047
     },
     {
       "name": "yt_kanal3",
       "file": "yt_kanal3.m3u",
       "tab": "sinema",
       "url": "https://raw.githubusercontent.com/lawyer524406/autoplayturk/main/output/yt_kanal3.m3u",
-      "totalChannels": 931
+      "totalChannels": 874
     }
   ]
 }

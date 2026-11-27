@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-27 12:06:25 UTC",
+  "timestamp": "2026-11-27 20:57:32 UTC",
   "mode": "distribution + manifest + conditional EXTVLCOPT + oEmbed check",
-  "elapsed_sec": 84.24,
+  "elapsed_sec": 128.46,
   "oembed_check": {
     "enabled": true,
     "checked_this_run": 8000,
@@ -48,13 +48,14 @@
     },
     {
       "file": "kovboy.m3u",
-      "total": 136,
+      "total": 40,
       "source_total": 230,
       "youtube": 230,
       "other": 0,
       "removed": {
-        "401": 88,
-        "403": 6
+        "401": 180,
+        "403": 9,
+        "404": 1
       }
     },
     {
@@ -99,14 +100,14 @@
     },
     {
       "file": "yabancikarisik.m3u",
-      "total": 1696,
+      "total": 1484,
       "source_total": 1893,
       "youtube": 1893,
       "other": 0,
       "removed": {
-        "401": 139,
-        "404": 25,
-        "403": 33
+        "401": 308,
+        "404": 45,
+        "403": 56
       }
     },
     {
@@ -119,71 +120,72 @@
     },
     {
       "file": "yerlikarisik.m3u",
-      "total": 7058,
+      "total": 3136,
       "source_total": 10892,
       "youtube": 10892,
       "other": 0,
       "removed": {
-        "403": 378,
-        "401": 3385,
-        "404": 71
+        "403": 798,
+        "401": 6832,
+        "404": 126
       }
     },
     {
       "file": "yerlikomedi.m3u",
-      "total": 1502,
+      "total": 706,
       "source_total": 2292,
       "youtube": 2292,
       "other": 0,
       "removed": {
-        "401": 785,
-        "404": 2,
-        "403": 3
+        "401": 1579,
+        "404": 3,
+        "403": 4
       }
     },
     {
       "file": "yt_kanal.m3u",
-      "total": 1461,
+      "total": 1137,
       "source_total": 1775,
       "youtube": 1775,
       "other": 0,
       "removed": {
-        "403": 32,
-        "404": 16,
-        "401": 266
+        "403": 63,
+        "404": 34,
+        "401": 541
       }
     },
     {
       "file": "yt_kanal1.m3u",
-      "total": 708,
+      "total": 687,
       "source_total": 732,
       "youtube": 732,
       "other": 0,
       "removed": {
-        "403": 22,
-        "404": 2
+        "401": 1,
+        "403": 36,
+        "404": 8
       }
     },
     {
       "file": "yt_kanal2.m3u",
-      "total": 3051,
+      "total": 3047,
       "source_total": 3054,
       "youtube": 3054,
       "other": 0,
       "removed": {
-        "403": 2,
+        "403": 6,
         "404": 1
       }
     },
     {
       "file": "yt_kanal3.m3u",
-      "total": 931,
+      "total": 874,
       "source_total": 997,
       "youtube": 997,
       "other": 0,
       "removed": {
-        "404": 45,
-        "403": 21
+        "404": 86,
+        "403": 37
       }
     }
   ]
